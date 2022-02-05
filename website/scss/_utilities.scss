@@ -1,0 +1,133 @@
+.container {
+  max-width: 1150px;
+  margin: auto;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+// padding
+.py {
+  &-1 {
+    padding: 1rem 0;
+  }
+  &-2 {
+    padding: 2rem 0;
+  }
+  &-3 {
+    padding: 3rem 0;
+  }
+  &-4 {
+    padding: 4rem 0;
+  }
+}
+// margin
+.my {
+  &-1 {
+    margin: 1rem 0;
+  }
+  &-2 {
+    margin: 2rem 0;
+  }
+  &-3 {
+    margin: 3rem 0;
+  }
+  &-4 {
+    margin: 4rem 0;
+  }
+}
+
+.btn {
+  display: inline-block;
+  background: $primary-blue;
+  color: $quaternary-blue;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  transition: all 0.5s;
+
+  &-light {
+    background: $tertiary-blue;
+    color: $primary-blue;
+  }
+
+  &-dark {
+    background: $quaternary-blue;
+    color: $primary-blue;
+  }
+
+  &:hover {
+    transform: scale(1.1);
+    background: $secondary-gray;
+    color: $primary-blue;
+    border: 1px $primary-blue solid;
+  }
+}
+
+.bottom-line {
+  border-bottom: 0.15rem #fff solid;
+  width: 20rem;
+  margin: 0 auto 1rem auto;
+  padding-top: 1rem;
+}
+
+// survey
+#questions {
+  .container {
+    max-width: 800px;
+    padding-top: 10rem;
+
+    .question-container {
+      width: 100%;
+      height: auto;
+      background: $secondary-blue;
+      padding: 1.5rem 2rem;
+      border-radius: 2rem;
+
+      .answers {
+        padding-top: 1rem;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+
+        .answer {
+          input[type="radio"] {
+            display: none;
+          }
+
+          label {
+            cursor: pointer;
+            display: block;
+            background: white;
+            border-radius: 1.2rem;
+            padding: 0.8rem 0.8rem 0.8rem 1.5rem;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            text-align: start;
+            box-shadow: 2px 2px 6px -2px rgba(255, 166, 193, 0.86);
+            position: relative;
+            transition: all 700ms;
+
+            &:hover {
+              border: 2px solid rgba(70, 65, 65, 0.5);
+            }
+          }
+
+          input[type="radio"]:checked + label {
+            background: $tertiary-blue;
+            color: hsla(215, 0%, 100%, 1);
+            box-shadow: 0px 0px 20px hsla(61, 100%, 50%, 0.75);
+
+            &::before {
+              background: red;
+              position: absolute;
+              top: 0;
+              left: 0;
+              height: 100%;
+              width: 100%;
+            }
+          }
+        }
+      }
+    }
+  }
+}
