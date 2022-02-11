@@ -25,25 +25,33 @@
           <a href="index.html"><i class="fas fa-poll logo"></i></a>
           <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="survey.html">Survey</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a class="survey_label" href="survey.html">Survey</a></li>
           </ul>
         </div>
       </nav>
 
       <div class="header-content">
         <div class="container">
-          <div class="grid my-2">
+          <div class="grid">
             <div class="grid-1">
-              <h1><span>UC Riverside</span> Instructor Survey</h1>
-              <!-- <div class="bottom-line"></div> -->
-              <p>
-                A student made survey for professors and lecturers that have
-                taught at UCR
-              </p>
-              <a class="btn my-1" href="survey.html">Begin Survey</a>
+                <h1>UC Riverside Instructor Survey</h1>
+                <p>
+                  A student made survey for professors and lecturers that have
+                  taught at UCR
+                </p>
+              
+              <a class="btn btn-light my-1" href="survey.html"
+                >Begin Survey</i
+              ></a>
             </div>
-            <div class="grid-2"></div>
+            <div class="grid-2">
+              <!-- <div class="question-count-container"> -->
+                <!-- <div class="question-info info-1">20 Questions</div> -->
+              </div>
+
+              <!-- <div class="question-info info-2">10 Minutes</div> -->
+            </div>
           </div>
         </div>
       </div>
@@ -51,62 +59,52 @@
 
     <!-- about page -->
     <section id="about" class="about">
-      <div class="about-head">
-        <h1>About</h1>
-        <div class="bottom-line"></div>
-      </div>
 
       <div class="container">
-        <div class="container-1"></div>
+        <div class="container-1">
+          <h2>About Me</h2>
+          <div class="bottom-line"></div>
+
+          <div class="about-content">
+            <h1>Kristoffer Hernandez</h1>
+            <p class="my-1">
+              Hello, my name is Kristoffer Hernandez, a Fall 2021 graduate. I took STAT130 Survey Analysis during Fall 2021 and was inspired to use what I learned to create and analyze a survey of my own.
+            </p>
+            <p class="my-1">
+              I used Python to scrape all necessary
+              <a taget='_blank' href="https://profiles.ucr.edu/app/home">information</a>, cleaned up the data and performed a stratified random sample using colleges as clusters (BCOE,CHASS,etc.). 
+            </p>
+            <p class="my-1">
+              This is my first website, so it only includes HTML & CSS. In the future, I plan to analyze and create visualizations using R and
+              display what I learned on the website.
+            </p>
+            <p class="my-1">
+              Thank you for taking the time to complete my survey!
+            </p>
+          </div>
+          
+        
+        </div>
+
 
         <div class="container-2">
-          <p class="my-2">
-            Hello, my name is Kristoffer Hernandez. I took STAT130 Survey
-            Analysis Fall 2021 and was inspired to use what I learned to create
-            and analyze a survey of my own.
-          </p>
-          <p class="my-2">
-            To begin, I used Python to scrape all professor/lecturer information
-            from
-            <a href="https://profiles.ucr.edu/app/home">profiles.ucr.edu</a>. I
-            cleaned up the data and performed a stratified random sample to
-            select using colleges as clusters (BCOE,CNAS,CHASS,etc.). I didn't
-            know HTML & CSS at the time so I learned the basics of web
-            development over winter break and have now completed my first
-            website!
-          </p>
-          <p class="my-2">
-            In the future, I plan to do some analysis on the data using R and
-            put the graphs and learned information on this same website.
-          </p>
-          <p class="my-2">
-            Thank you for taking the time to complete my survey!
-          </p>
+
+          <div class="about-photo"></div>
+          <div class="socials">
+            <a target="_blank" href="https://www.linkedin.com/in/kristoffer-h/"
+            ><i class="fab fa-linkedin btn btn-light"></i
+          ></a>
+          <a target="_blank" href="https://github.com/kristoffhernan"
+            ><i class="fab fa-github btn btn-light"></i
+          ></a>
+          <a target="_blank" href="mailto:kristoffhernan98@gmail.com"> <i class="fa-solid fa-envelope btn btn-light"></i></a> 
+
+          </div>
         </div>
+
+
       </div>
     </section>
 
-    <!-- contact page -->
-
-    <!-- footer -->
-    <footer id="footer">
-      <div class="footer-content container">
-        <a
-          class="btn btn-dark"
-          target="_blank"
-          href="https://www.youtube.com/watch?v=mU6anWqZJcc&t=30295s"
-          >Where I learned HTML&CSS</a
-        >
-
-        <div class="social">
-          <a target="_blank" href="https://www.linkedin.com/in/kristoffer-h/"
-            ><i class="fab fa-linkedin btn btn-dark"></i
-          ></a>
-          <a target="_blank" href="https://github.com/kristoffhernan"
-            ><i class="fab fa-github btn btn-dark"></i
-          ></a>
-        </div>
-      </div>
-    </footer>
   </body>
 </html>

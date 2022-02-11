@@ -25,7 +25,10 @@
           <a href="index.html"><i class="fas fa-poll logo"></i></a>
           <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="index.html#about">About</a></li>
+            <li>
+              <a class="survey_label current" href="survey.html">Survey</a>
+            </li>
           </ul>
         </div>
       </nav>
@@ -33,10 +36,20 @@
 
     <section id="questions">
       <div class="container">
-        <form action="">
+        <div class="instructions">
+          <h2>Survey</h2>
+          <p>
+            The survey will take about 5 minutes, asking about general teaching
+            information, your spare time and one map question. It will
+            <strong>NOT</strong> ask for your name or email. Please answer all
+            questions.
+          </p>
+        </div>
+
+        <form name="response" method="POST" data-netlify="true">
           <!-- Question 1 -->
           <div class="question-container my-2">
-            <h2>1. Gender: How do you identify?</h2>
+            <h3>1. What is your gender?</h3>
             <div class="answers">
               <div class="answer">
                 <input type="radio" name="question_one" id="1a" value="a" />
@@ -54,16 +67,12 @@
                 <input type="radio" name="question_one" id="1d" value="d" />
                 <label for="1d">d. Prefer not to answer</label>
               </div>
-              <div class="answer">
-                <input type="radio" name="question_one" id="1e" value="e" />
-                <label for="1e">e. Other</label>
-              </div>
             </div>
           </div>
 
           <!-- Question 2 -->
           <div class="question-container my-2">
-            <h2>2. What is your age?</h2>
+            <h3>2. What is your age range?</h3>
             <div class="answers">
               <div class="answer">
                 <input type="radio" name="question_two" id="2a" value="a" />
@@ -86,11 +95,11 @@
                 <label for="2e">e. 40-44</label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_two" id="2f" value="e" />
+                <input type="radio" name="question_two" id="2f" value="f" />
                 <label for="2f">f. 45-50</label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_two" id="2g" value="e" />
+                <input type="radio" name="question_two" id="2g" value="h" />
                 <label for="2g">g. 50-54</label>
               </div>
               <div class="answer">
@@ -104,104 +113,580 @@
             </div>
           </div>
 
-          <!-- question 3 -->
+          <!-- Question 3 -->
           <div class="question-container my-2">
-            <h2>When did you last instruct a course at UCR?</h2>
+            <h3>3. What college/school are you part of?</h3>
             <div class="answers">
               <div class="answer">
                 <input type="radio" name="question_three" id="3a" value="a" />
-                <label for="3a">a. 2022</label>
+                <label for="3a"
+                  >a. College of Natural and Agricultural Sciences</label
+                >
               </div>
               <div class="answer">
                 <input type="radio" name="question_three" id="3b" value="b" />
-                <label for="3b">b. 2021</label>
+                <label for="3b"
+                  >b. Marlan and Rosemary Bourns College of Engineering</label
+                >
               </div>
               <div class="answer">
                 <input type="radio" name="question_three" id="3c" value="c" />
-                <label for="3c">c. 2020</label>
+                <label for="3c"
+                  >c. College of Humanities, Arts, and Social Sciences
+                </label>
               </div>
               <div class="answer">
                 <input type="radio" name="question_three" id="3d" value="d" />
-                <label for="3d">d. 2019</label>
+                <label for="3d">d. School of Education </label>
               </div>
               <div class="answer">
                 <input type="radio" name="question_three" id="3e" value="e" />
-                <label for="3e">e. 2018</label>
+                <label for="3e">e. School of Business </label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_three" id="3f" value="e" />
-                <label for="3f">f. Before 2018</label>
+                <input type="radio" name="question_three" id="3f" value="f" />
+                <label for="3f">f. School of Medicine </label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_three" id="3g" value="e" />
-                <label for="3g">g. Haven't taught at UCR</label>
+                <input type="radio" name="question_three" id="3g" value="g" />
+                <label for="3g">g. School of Public Policy </label>
               </div>
             </div>
           </div>
 
           <!-- question 4 -->
           <div class="question-container my-2">
-            <h2>
-              4. How many hours of preparation do you do per hour of lecture
-              time, on average?
-            </h2>
+            <h3>4. What was the most recent year you've taught at UCR?</h3>
             <div class="answers">
               <div class="answer">
-                <input type="radio" name="question_four" id="4a" value="a" />
-                <label for="4a">a. Less than 1 hour</label>
+                <input type="radio" name="question_three" id="4a" value="a" />
+                <label for="4a">a. 2022</label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_four" id="4b" value="b" />
-                <label for="4b">b. 1-2 hours</label>
+                <input type="radio" name="question_three" id="4b" value="b" />
+                <label for="4b">b. 2021</label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_four" id="4c" value="c" />
-                <label for="4c">c. 3-4 hours</label>
+                <input type="radio" name="question_three" id="4c" value="c" />
+                <label for="4c">c. 2020</label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_four" id="4d" value="d" />
-                <label for="4d">d. 5-6 hours</label>
+                <input type="radio" name="question_three" id="4d" value="d" />
+                <label for="4d">d. 2019</label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_four" id="4e" value="e" />
-                <label for="4e">e. 7-8 hours</label>
+                <input type="radio" name="question_three" id="4e" value="e" />
+                <label for="4e">e. 2018</label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_four" id="4d" value="e" />
-                <label for="4d">e. 9+ hours</label>
+                <input type="radio" name="question_three" id="4f" value="e" />
+                <label for="4f">f. Before 2018</label>
               </div>
               <div class="answer">
-                <input type="radio" name="question_four" id="4e" value="e" />
-                <label for="4e">e. No preparation</label>
+                <input type="radio" name="question_three" id="4g" value="e" />
+                <label for="4g">g. Haven't taught at UCR</label>
               </div>
             </div>
           </div>
 
           <!-- question 5 -->
           <div class="question-container my-2">
-            <h2>5. Generally, exams are graded by? (click all that apply)</h2>
+            <h3>5. How many years have you taught at college level?</h3>
             <div class="answers">
               <div class="answer">
                 <input type="radio" name="question_five" id="5a" value="a" />
-                <label for="5a">a. Myself</label>
+                <label for="5a">a. < 1 year</label>
               </div>
               <div class="answer">
                 <input type="radio" name="question_five" id="5b" value="b" />
-                <label for="5b">b. PhD student</label>
+                <label for="5b">b. 1-2 years</label>
               </div>
               <div class="answer">
                 <input type="radio" name="question_five" id="5c" value="c" />
-                <label for="5c">c. Electronically</label>
+                <label for="5c">c. 3-4 years</label>
               </div>
               <div class="answer">
                 <input type="radio" name="question_five" id="5d" value="d" />
-                <label for="5d">d. No exams</label>
+                <label for="5d">d. 5-6 years</label>
               </div>
               <div class="answer">
                 <input type="radio" name="question_five" id="5e" value="e" />
-                <label for="5e">e. Other</label>
+                <label for="5e">e. 7+ years</label>
               </div>
             </div>
+          </div>
+
+          <!-- question 6 -->
+          <div class="question-container my-2">
+            <h3>
+              6. How many hours do you prepare per hour of lecture time, on
+              average?
+            </h3>
+            <div class="answers">
+              <div class="answer">
+                <input type="radio" name="question_six" id="6a" value="a" />
+                <label for="6a">a. Less than 1 hour</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_six" id="6b" value="b" />
+                <label for="6b">b. 1-2 hours</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_six" id="6c" value="c" />
+                <label for="6c">c. 3-4 hours</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_six" id="6d" value="d" />
+                <label for="6d">d. 5-6 hours</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_six" id="6e" value="e" />
+                <label for="6e">e. 7+ hours</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_six" id="6f" value="f" />
+                <label for="6f">f. No preparation</label>
+              </div>
+            </div>
+          </div>
+
+          <!-- question 7 -->
+          <div class="question-container my-2">
+            <h3>7. Generally, exams are graded by? (click all that apply)</h3>
+            <div class="answers">
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_seven"
+                  id="7a"
+                  value="a"
+                />
+                <label for="7a" class="checkbox">a. Myself</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_seven"
+                  id="7b"
+                  value="b"
+                />
+                <label for="7b" class="checkbox">b. PhD student</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_seven"
+                  id="7c"
+                  value="c"
+                />
+                <label for="7c" class="checkbox">c. Electronically</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_seven"
+                  id="7d"
+                  value="d"
+                />
+                <label for="7d" class="checkbox">d. No exams</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="text"
+                  name="question_seven"
+                  id="7e"
+                  placeholder="e. Enter a different option"
+                />
+                <!-- <label for="7e">e. Other</label> -->
+              </div>
+            </div>
+          </div>
+
+          <!-- question 8 -->
+          <div class="question-container my-2">
+            <h3>8. How many hours do you work a week, on average?</h3>
+            <p>Max digits: 3</p>
+            <div class="answers">
+              <div class="answer">
+                <input
+                  type="text"
+                  name="question_eight"
+                  id="8a"
+                  min="0"
+                  max="100"
+                  maxlength="3"
+                  placeholder="Enter number of hours"
+                />
+              </div>
+            </div>
+          </div>
+
+          <!-- question 9 -->
+          <div class="question-container my-2">
+            <h3>9. How are you instructing classes?</h3>
+            <div class="answers">
+              <div class="answer">
+                <input type="radio" name="question_nine" id="9a" value="a" />
+                <label for="9a">a. In person</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_nine" id="9b" value="b" />
+                <label for="9b">b. Online</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_nine" id="9c" value="c" />
+                <label for="9c">c. Both in person and online</label>
+              </div>
+            </div>
+          </div>
+
+          <!-- question 10 -->
+          <div class="question-container my-2">
+            <h3>10. Are you tenured?</h3>
+            <div class="answers">
+              <div class="answer">
+                <input type="radio" name="question_ten" id="10a" value="a" />
+                <label for="10a">a. Yes</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_ten" id="10b" value="b" />
+                <label for="10b">b. No</label>
+              </div>
+            </div>
+          </div>
+
+          <!-- question 11 -->
+          <div class="question-container my-2">
+            <h3>
+              11. What division of courses do you teach? (select all that apply)
+            </h3>
+            <div class="answers">
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_eleven"
+                  id="11a"
+                  value="a"
+                />
+                <label for="11a">a. Upper division</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_eleven"
+                  id="11b"
+                  value="b"
+                />
+                <label for="11b">b. Lower division</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_eleven"
+                  id="11c"
+                  value="c"
+                />
+                <label for="11c">c. Graduate</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_eleven"
+                  id="11d"
+                  value="d"
+                />
+                <label for="11d">d. Medical school course</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_eleven"
+                  id="11e"
+                  value="e"
+                />
+                <label for="11e">e. Other</label>
+              </div>
+            </div>
+          </div>
+
+          <!-- question 12 -->
+          <div class="question-container my-2">
+            <h3>12. How much free time do you have per day, on average?</h3>
+            <p>
+              In questions 12-13, free time is spare time where you do something
+              that's fun and not an obligation. Something like working past work
+              hours or cooking because you have to eat does not count as free
+              time
+            </p>
+            <div class="answers">
+              <div class="answer">
+                <input type="radio" name="question_twelve" id="12a" value="a" />
+                <label for="12a">a. < 1 hour</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_twelve" id="12b" value="b" />
+                <label for="12b">b. 1-2 hours</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_twelve" id="12c" value="c" />
+                <label for="12c">c. 3-4 hours</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_twelve" id="12d" value="d" />
+                <label for="12d">d. 5-6 hours</label>
+              </div>
+              <div class="answer">
+                <input type="radio" name="question_twelve" id="12e" value="e" />
+                <label for="12e">e. 6+ hours</label>
+              </div>
+            </div>
+          </div>
+
+          <!-- question 13 -->
+          <div class="question-container my-2">
+            <h3>
+              13. What do you do in your spare time? (Select all that apply)
+            </h3>
+            <p>
+              Please generalize if something is already listed. Otherwise, add
+              other activities separated by a comma below.
+            </p>
+            <div class="answers">
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13a"
+                  value="a"
+                />
+                <label for="13a">a. Consume media content</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13b"
+                  value="b"
+                />
+                <label for="13b">b. Videogames</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13c"
+                  value="c"
+                />
+                <label for="13c">c. Do creative things</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13d"
+                  value="d"
+                />
+                <label for="13d">d. Listen to music (not as background)</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13e"
+                  value="e"
+                />
+                <label for="13e">e. Read books/articles</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13f"
+                  value="f"
+                />
+                <label for="13f"
+                  >f. Educate yourself (not part of current career)</label
+                >
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13g"
+                  value="g"
+                />
+                <label for="13g">g. Visit friends/socialize</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13h"
+                  value="h"
+                />
+                <label for="13h">h. Go on a walk</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13i"
+                  value="i"
+                />
+                <label for="13i">i. Think</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13j"
+                  value="j"
+                />
+                <label for="13j">j. Exercise</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13k"
+                  value="k"
+                />
+                <label for="13k">k. Tabletop/card games</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13l"
+                  value="l"
+                />
+                <label for="13l">l. Drugs</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13m"
+                  value="m"
+                />
+                <label for="13m">m. Make things/DIY</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13n"
+                  value="n"
+                />
+                <label for="13n">n. Drive for fun</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13o"
+                  value="o"
+                />
+                <label for="13o">o. Watch scheduled TV</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13p"
+                  value="p"
+                />
+                <label for="13p">p. Dance</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13q"
+                  value="q"
+                />
+                <label for="13q">q. Meditate</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13r"
+                  value="r"
+                />
+                <label for="13r">r. Cook/Bake for fun</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13s"
+                  value="s"
+                />
+                <label for="13s">s. Play with pets</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13t"
+                  value="t"
+                />
+                <label for="13t">t. Gardening</label>
+              </div>
+              <div class="answer">
+                <input
+                  type="checkbox"
+                  name="question_thirteen"
+                  id="13u"
+                  value="u"
+                />
+                <label for="13u">u. Spend time with family</label>
+              </div>
+              <div class="answer">
+                <textarea
+                  name="question_thirteen"
+                  id="13v"
+                  placeholder="v. Enter other activities"
+                ></textarea>
+                <!-- <input type="text" name="question_thirteen" id="13t" placeholder="Enter other activities" maxlength='1000'/> -->
+              </div>
+            </div>
+          </div>
+
+          <!-- question 14 -->
+          <div class="question-container my-2">
+            <h3>14. Name any country in the world.</h3>
+            <div class="answers">
+              <div class="answer">
+                <input
+                  type="text"
+                  name="question_fourteen"
+                  id="14a"
+                  placeholder="Enter a country"
+                  maxlength="100"
+                />
+                <!-- <label for="14a">Country</label> -->
+              </div>
+            </div>
+          </div>
+
+          <!-- question 15 -->
+          <div class="question-container my-2">
+            <h3>(Optional) Feedback</h3>
+            <div class="answers feedback">
+              <div class="answer">
+                <textarea
+                  name="question_fifteen"
+                  id="15a"
+                  placeholder="Enter feedback"
+                ></textarea>
+              </div>
+            </div>
+          </div>
+
+          <div class="submit-holder py-2">
+            <input class="btn btn-dark" type="submit" value="Submit" />
           </div>
         </form>
       </div>
@@ -210,15 +695,8 @@
     <!-- contact page -->
 
     <!-- footer -->
-    <footer id="footer">
+    <!-- <footer id="footer">
       <div class="footer-content container">
-        <a
-          class="btn btn-dark"
-          target="_blank"
-          href="https://www.youtube.com/watch?v=mU6anWqZJcc&t=30295s"
-          >Where I learned HTML&CSS</a
-        >
-
         <div class="social">
           <a target="_blank" href="https://www.linkedin.com/in/kristoffer-h/"
             ><i class="fab fa-linkedin btn btn-dark"></i
@@ -228,6 +706,6 @@
           ></a>
         </div>
       </div>
-    </footer>
+    </footer> -->
   </body>
 </html>

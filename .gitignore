@@ -4,3 +4,7 @@ config.py
 *__pycache__
 
 *.ipynb_checkpoints
+
+# website/dist/*img
+
+*preparation
