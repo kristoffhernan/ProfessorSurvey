@@ -5,6 +5,6 @@ config.py
 
 *.ipynb_checkpoints
 
-# website/dist/*img
+
 
 *preparation
