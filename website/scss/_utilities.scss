@@ -40,8 +40,10 @@
   display: inline-block;
   color: $primary-blue;
   background: $primary-yellow;
+  -webkit-appearance: none;
   padding: 1rem;
   border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
   font-weight: bold;
   transition: all 0.5s;
   cursor: pointer;

@@ -38,6 +38,11 @@ p {
   padding-bottom: 1rem;
 }
 
+input,
+textarea {
+  -webkit-appearance: none;
+}
+
 // Navbar
 #main-nav {
   overflow: hidden;
@@ -379,13 +384,13 @@ p {
         align-items: center;
         align-content: center;
         text-align: center;
-        -webkit-appearance: none;
 
         input {
           width: 40%;
           font-size: 1.1rem;
           outline: none;
           border: none;
+          -webkit-appearance: none;
 
           &:hover {
             border: 1px $primary-blue solid;
