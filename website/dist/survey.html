@@ -46,7 +46,12 @@
           </p>
         </div>
 
-        <form name="response" method="POST" data-netlify="true">
+        <form
+          name="response"
+          method="POST"
+          data-netlify="true"
+          data-netlify-recaptcha="true"
+        >
           <!-- Question 1 -->
           <fieldset id="1" class="question-container my-2">
             <h3>1. What is your gender?</h3>
@@ -629,6 +634,8 @@
               </div>
             </div>
           </fieldset>
+
+          <div data-netlify-recaptcha="true"></div>
 
           <div class="submit-holder py-2">
             <input class="btn btn-light" type="submit" value="Submit" />
