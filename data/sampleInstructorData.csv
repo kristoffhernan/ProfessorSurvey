@@ -1,0 +1,812 @@
+Email,Department,College,TitleNew,CleanName,LastName,Id
+francisca.beer@ucr.edu,Other,University Extension,Lecturer,Francisca M Beer,Beer,1
+paul.kirwan@ucr.edu,Other,University Extension,Lecturer,Paul Kirwan,Kirwan,2
+nidhi.shah@ucr.edu,Other,University Extension,Lecturer,Nidhi Shah,Shah,3
+lorna.seitz@ucr.edu,Other,University Extension,Lecturer,Lorna K Seitz,Seitz,4
+michael.towne@ucr.edu,Other,University Extension,Lecturer,Michael R Towne,Towne,5
+kenneth.kim@ucr.edu,Other,University Extension,Lecturer,Kenneth S Kim,Kim,6
+ran.wei@ucr.edu,SPP - Dean's Office,School of Public Policy,Associate Professor,Ran Wei,Wei,7
+sharon.oselin@ucr.edu,SPP - Dean's Office,School of Public Policy,Associate Professor,Sharon S. Oselin,Oselin,8
+cecilia.ayon@ucr.edu,SPP - Dean's Office,School of Public Policy,Professor,Cecilia Ayón,Ayón,9
+bruce.babcock@ucr.edu,SPP - Dean's Office,School of Public Policy,Professor,Bruce Babcock,Babcock,10
+ben.newman@ucr.edu,SPP - Dean's Office,School of Public Policy,Associate Professor,Benjamin J. Newman,Newman,11
+david.brady@ucr.edu,SPP - Dean's Office,School of Public Policy,Professor,David Brady,Brady,12
+steven.brint@ucr.edu,SPP - Dean's Office,School of Public Policy,Distinguished Professor,Steven G Brint,Brint,13
+bruce.link@ucr.edu,SPP - Dean's Office,School of Public Policy,Distinguished Professor,Bruce G Link,Link,14
+kurt.schwabe@ucr.edu,SPP - Dean's Office,School of Public Policy,Chair,Kurt Schwabe,Schwabe,15
+qingfang.wang@ucr.edu,SPP - Dean's Office,School of Public Policy,Professor,Qingfang Wang,Wang,16
+karthick.ramakrishnan@ucr.edu,SPP - Dean's Office,School of Public Policy,Professor,Karthick Ramakrishnan,Ramakrishnan,17
+richard.carpiano@ucr.edu,SPP - Dean's Office,School of Public Policy,Professor,Richard M Carpiano,Carpiano,18
+sergio.rey@ucr.edu,SPP - Dean's Office,School of Public Policy,Professor,Sergio J Rey,Rey,19
+stan.oklobdzija@ucr.edu,SPP - Dean's Office,School of Public Policy,Assistant Professor,Stan Nguyen Oklobdzija,Oklobdzija,20
+ariel.dinar@ucr.edu,SPP - Dean's Office,School of Public Policy,Distinguished Professor,Ariel Dinar,Dinar,21
+marsha.ing@ucr.edu,Graduate School of Education,Graduate School of Education,Associate Professor,Marsha Ing,Ing,22
+keith.widaman@ucr.edu,Graduate School of Education,Graduate School of Education,Distinguished Professor,Keith Widaman,Widaman,23
+tasha.iglesias@ucr.edu,Graduate School of Education,Graduate School of Education,Lecturer,Tasha Iglesias,Iglesias,24
+cassandra.guarino@ucr.edu,Graduate School of Education,Graduate School of Education,Professor,Cassandra Guarino,Guarino,25
+amos.lee@ucr.edu,Graduate School of Education,Graduate School of Education,Assistant Professor,Amos J. Lee,Lee,26
+alice.lee@ucr.edu,Graduate School of Education,Graduate School of Education,Assistant Professor,Alice Y. Lee,Lee,27
+rollanda.oconnor@ucr.edu,Graduate School of Education,Graduate School of Education,Professor,Rollanda O'Connor,O'Connor,28
+rita.kohli@ucr.edu,Graduate School of Education,Graduate School of Education,Associate Professor,Rita Kohli,Kohli,29
+cathy.lussier@ucr.edu,Graduate School of Education,Graduate School of Education,Assistant Professor,Catherine  Lussier,Lussier,30
+jan.blacher@ucr.edu,Graduate School of Education,Graduate School of Education,Distinguished Professor,Jan Blacher,Blacher,31
+margaret.nash@ucr.edu,Graduate School of Education,Graduate School of Education,Professor,Margaret Nash,Nash,32
+john.wills@ucr.edu,Graduate School of Education,Graduate School of Education,Associate Professor,John S Wills,Wills,33
+robert.ream@ucr.edu,Graduate School of Education,Graduate School of Education,Dean,Robert Ream,Ream,34
+douglas.mitchell@ucr.edu,Graduate School of Education,Graduate School of Education,Professor,Doug Mitchell,Mitchell,35
+michael.solis@ucr.edu,Graduate School of Education,Graduate School of Education,Associate Professor,Michael Solis,Solis,36
+gregory.palardy@ucr.edu,Graduate School of Education,Graduate School of Education,Associate Professor,Gregory Palardy,Palardy,37
+b.echeverria@ucr.edu,Graduate School of Education,Graduate School of Education,Dean,Begona Echeverria,Echeverria,38
+kinnari.atit@ucr.edu,Graduate School of Education,Graduate School of Education,Assistant Professor,Kinnari Atit,Atit,39
+asha.jitendra@ucr.edu,Graduate School of Education,Graduate School of Education,Professor,Asha K. Jitendra,Jitendra,40
+t.yosso@ucr.edu,Graduate School of Education,Graduate School of Education,Professor,Tara J Yosso,Yosso,41
+john.levin@ucr.edu,Graduate School of Education,Graduate School of Education,Professor,John S Levin,Levin,42
+joshua.fenton@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Joshua Fenton,Fenton,43
+robert.jones@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Robert Jones,Jones,44
+benedict.jones@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Benedict K Jones,Jones,45
+lash.vance@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Lash K Vance,Vance,46
+shane.shukis@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Shane Shukis,Shukis,47
+stephanie.wilms@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Stephanie A Wilms,Wilms,48
+charlene.musgrove@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Charlene Musgrove,Musgrove,49
+kimberly.turner@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Kimberly A Turner,Turner,50
+michael.turcios@ucr.edu,Other,Undergraduate Education,Lecturer,Michael Turcios,Turcios,51
+timothy.ballard@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Timothy Ballard,Ballard,52
+erie.leduc@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Erie M Leduc,Leduc,53
+anamika.basu@ucr.edu,Other,Undergraduate Education,Lecturer,Anamika Basu,Basu,54
+agnieszka.mazur@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Agnieszka E Mazur,Mazur,55
+cassandra.vanzandt@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Cassandra Van Zandt,Zandt,56
+kate.watt@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Kate Watt,Watt,57
+james.anderson@ucr.edu,Other,Undergraduate Education,Lecturer,James K Anderson,Anderson,58
+richard.hunt@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Richard L Hunt,Hunt,59
+jerome.winter@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Jerome Dale Winter,Winter,60
+aaron.potter@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Aaron Potter,Potter,61
+christine.smedley@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Christine Smedley,Smedley,62
+lisa.sarigiani@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Lisa J Sarigiani,Sarigiani,63
+rory.moore@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Rory Michelle Moore,Moore,64
+anne.schnarr@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Anne Lee Schnarr,Schnarr,65
+kathleen.gurnett@ucr.edu,University Writing Program,Undergraduate Education,Lecturer,Kathleen N Gurnett,Gurnett,66
+melody.seyednematollah@ucr.edu,School of Business,School of Business,Lecturer,Melody Seyednematollah,Seyednematollah,67
+alexander.barinov@ucr.edu,School of Business,School of Business,Assistant Professor,Alexander Barinov,Barinov,68
+rob.kincaid@ucr.edu,School of Business,School of Business,Lecturer,Rob Kincaid,Kincaid,69
+harold.dyck@ucr.edu,School of Business,School of Business,Lecturer,Harold E Dyck,Dyck,70
+xiying.zhang@ucr.edu,School of Business,School of Business,Associate Professor,Ivy Zhang,Zhang,71
+danko.turcic@ucr.edu,School of Business,School of Business,Associate Professor,Danko Turcic,Turcic,72
+jorge.silva-risso@ucr.edu,School of Business,School of Business,Professor,Jorge Silva-Risso,Silva-Risso,73
+arturo.alcaraz@ucr.edu,School of Business,School of Business,Lecturer,Arturo Jesus Alcaraz,Alcaraz,74
+ghulam.sarwar@ucr.edu,School of Business,School of Business,Lecturer,Ghulam Sarwar,Sarwar,75
+ayca.altintig@ucr.edu,School of Business,School of Business,Lecturer,Ayca Altintig,Altintig,76
+rich.yueh@ucr.edu,School of Business,School of Business,Assistant Professor,Rich Yueh,Yueh,77
+adem.orsdemir@ucr.edu,School of Business,School of Business,Assistant Professor,Adem Orsdemir,Orsdemir,78
+javad.kashefi-nejad@ucr.edu,School of Business,School of Business,Lecturer,Javad Kashefi-Nejad,Kashefi-Nejad,79
+charles.zhang@ucr.edu,School of Business,School of Business,Assistant Professor,Charles Zhang,Zhang,80
+mingyu.joo@ucr.edu,School of Business,School of Business,Assistant Professor,Mingyu  Joo,Joo,81
+hyun.hong@ucr.edu,School of Business,School of Business,Associate Professor,Hyun 'Shana' Hong,Hong,82
+hoyul.paik@ucr.edu,School of Business,School of Business,Lecturer,Hoyul Paik,Paik,83
+christine.sohail@ucr.edu,School of Business,School of Business,Lecturer,Christine Sohail,Sohail,84
+eric.allen@ucr.edu,School of Business,School of Business,Assistant Professor,Eric Allen,Allen,85
+haibo.liu@ucr.edu,School of Business,School of Business,Assistant Professor,Haibo Liu,Liu,86
+adam.russell@ucr.edu,School of Business,School of Business,Lecturer,Adam Russell,Russell,87
+michael.haselhuhn@ucr.edu,School of Business,School of Business,Associate Professor,Michael Haselhuhn,Haselhuhn,88
+thomas.underhill@ucr.edu,School of Business,School of Business,Lecturer,Thomas B Underhill,Underhill,89
+ye.li@ucr.edu,School of Business,School of Business,Assistant Professor,Ye Li,Li,90
+yawen.jiao@ucr.edu,School of Business,School of Business,Associate Professor,Yawen Jiao,Jiao,91
+kathryn.johnson@ucr.edu,School of Business,School of Business,Lecturer,Kathryn Johnson,Johnson,92
+ashish.sood@ucr.edu,School of Business,School of Business,Associate Professor,Ashish Sood,Sood,93
+frank.fialho@ucr.edu,School of Business,School of Business,Lecturer,Frank Fialho,Fialho,94
+greg.richey@ucr.edu,School of Business,School of Business,Assistant Professor,Greg Richey,Richey,95
+long.gao@ucr.edu,School of Business,School of Business,Associate Professor,Long Gao,Gao,96
+matt.vaezi@ucr.edu,School of Business,School of Business,Lecturer,Matt Vaezi,Vaezi,97
+galib.rustamov@ucr.edu,School of Business,School of Business,Lecturer,Galib Rustamov,Rustamov,98
+hamid.vaezi@ucr.edu,School of Business,School of Business,Lecturer,Hamid Vaezi,Vaezi,99
+mohsen.elhafsi@ucr.edu,School of Business,School of Business,Professor,Mohsen El Hafsi,Hafsi,100
+john.acker@ucr.edu,School of Business,School of Business,Lecturer,John Acker,Acker,101
+chen.li@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Assistant Professor,Chen Li,Li,102
+amr.ahmed@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Assistant Professor,Amr Magdy,Magdy,103
+marko.princevac@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Dean,Marko Princevac,Princevac,104
+sharon.walker@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Adjunct Professor,Sharon Walker,Walker,105
+robert.jinkerson@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Assistant Professor,Robert Jinkerson,Jinkerson,106
+cengiz.ozkan@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Professor,Cengiz Ozkan,Ozkan,107
+bir.bhanu@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Distinguished Professor,Bir Bhanu,Bhanu,108
+chris.clark@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Adjunct Professor,Christopher H Clark,Clark,109
+craig.schroeder@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Assistant Professor,Craig Schroeder,Schroeder,110
+marek.chrobak@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Dean,Marek Chrobak,Chrobak,111
+hyoseung.kim@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Associate Professor,Hyoseung Kim,Kim,112
+kandis.abdul-aziz@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Assistant Professor,Kandis Leslie Abdul-Aziz,Abdul-Aziz,113
+tao.jiang@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Distinguished Professor,Tao Jiang,Jiang,114
+ahmed.eldawy@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Assistant Professor,Ahmed Eldawy,Eldawy,115
+jin.nam@ucr.edu,Bioengineering,Bourns College of Engineering,Associate Professor,Jin Nam,Nam,116
+hyle.park@ucr.edu,Bioengineering,Bourns College of Engineering,Associate Professor,Hyle Park,Park,117
+mahesh.neupane@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Adjunct Professor,Mahesh Raj Neupane,Neupane,118
+james.sawyer@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Lecturer,James Sawyer,Sawyer,119
+anastasios.mourikis@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Associate Professor,Anastasios Mourikis,Mourikis,120
+thomas.fryer@ucr.edu,Other,Bourns College of Engineering,Lecturer,Thomas Michael Fryer,Fryer,121
+daniel.wong@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Assistant Professor,Daniel Wong,Wong,122
+alexander.balandin@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Distinguished Professor,Alexander Balandin,Balandin,123
+amey.bhangale@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Assistant Professor,Amey Bhangale,Bhangale,124
+haizhou.liu@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Associate Professor,Haizhou Liu,Liu,125
+yun.shen@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Assistant Professor,Yun Shen,Shen,126
+mark.matsumoto@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Professor,Mark R Matsumoto,Matsumoto,127
+mihri.ozkan@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Professor,Mihri Ozkan,Ozkan,128
+fabio.pasqualetti@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Professor,Fabio Pasqualetti,Pasqualetti,129
+basak.guler@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Assistant Professor,Basak Guler,Guler,130
+tofigh.heidarzadeh@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Lecturer,Tofigh Heidarzadeh,Heidarzadeh,131
+allan.knight@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Assistant Professor,Allan Knight,Knight,132
+elaine.haberer@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Associate Professor,Elaine D Haberer,Haberer,133
+luat.vuong@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Assistant Professor,Luat Thanh Vuong,Vuong,134
+shaolei.ren@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Associate Professor,Shaolei Ren,Ren,135
+jiayu.liao@ucr.edu,Bioengineering,Bourns College of Engineering,Associate Professor,Jiayu Liao,Liao,136
+venkataramabhargav.rallabandi@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Assistant Professor,Bhargav Rallabandi,Rallabandi,137
+kelley.barsanti@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Associate Professor,Kelley Barsanti,Barsanti,138
+jonathan.realmuto@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Assistant Professor,Jonathan Realmuto,Realmuto,139
+xin.ge@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Associate Professor,Xin Ge,Ge,140
+david.kisailus@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Adjunct Professor,David Kisailus,Kisailus,141
+hamidreza.nazaripouya@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Adjunct Professor,Hamidreza Nazaripouya,Nazaripouya,142
+akula.venkatram@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Professor,Akula Venkatram,Venkatram,143
+christian.shelton@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Professor,Christian Shelton,Shelton,144
+ming.liu@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Associate Professor,Ming Liu,Liu,145
+chinya.ravishankar@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Professor,Ravi Ravishankar,Ravishankar,146
+philip.brisk@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Professor,Philip L Brisk,Brisk,147
+bahman.anvari@ucr.edu,Bioengineering,Bourns College of Engineering,Professor,Bahman Anvari,Anvari,148
+michael.zachariah@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Distinguished Professor,Michael R Zachariah,Zachariah,149
+matthew.barth@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Professor,Matt Barth,Barth,150
+aleksandr.khitun@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Adjunct Professor,Aleksandr G Khitun,Khitun,151
+iman.noshadi2@ucr.edu,Bioengineering,Bourns College of Engineering,Assistant Professor,Iman Noshadi,Noshadi,152
+ertem.tuncel@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Chair,Ertem Tuncel,Tuncel,153
+salman.asif@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Assistant Professor,Salman Asif,Asif,154
+reem.ali@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Lecturer,Reem Ali,Ali,155
+victor.rodgers@ucr.edu,Bioengineering,Bourns College of Engineering,Professor,Victor G J Rodgers,Rodgers,156
+niloofar.montazeri@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Lecturer,Niloofar Montazeri,Montazeri,157
+mohsen.lesani@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Associate Professor,Mohsen Lesani,Lesani,158
+charles.cai@ucr.edu,Other,Bourns College of Engineering,Adjunct Professor,Charles M Cai,Cai,159
+sundararajan.venkatadriagaram@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Associate Professor,Sundararajan Venkatadriagaram,Venkatadriagaram,160
+yanran.li@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Assistant Professor,Yanran Li,Li,161
+vassilis.tsotras@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Professor,Vassilis Tsotras,Tsotras,162
+manu.sridharan@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Associate Professor,Manu Sridharan,Sridharan,163
+evangelos.christidis@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Professor,Vagelis Hristidis Christidis,Christidis,164
+zizhong.chen@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Professor,Zizhong Chen,Chen,165
+giulia.palermo@ucr.edu,Bioengineering,Bourns College of Engineering,Assistant Professor,Giulia Palermo,Palermo,166
+wei.ren@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Professor,Wei Ren,Ren,167
+sheldon.tan@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Professor,Sheldon X.-D. Tan,Tan,168
+mona.eskandari@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Assistant Professor,Mona Eskandari,Eskandari,169
+xi.chen@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Assistant Professor,Xi Chen,Chen,170
+amit.roychowdhury@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Chair,Amit K Roy Chowdhury,Chowdhury,171
+elena.kokkoni@ucr.edu,Bioengineering,Bourns College of Engineering,Assistant Professor,Elena Kokkoni,Kokkoni,172
+harvey.blanch@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Professor,Harvey W Blanch,Blanch,173
+michalis.faloutsos@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Professor,Michail Faloutsos,Faloutsos,174
+tamar.mentzel@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Assistant Professor,Tamar Mentzel,Mentzel,175
+kawai.tam@ucr.edu,Chemical/Environ. Engineering,Bourns College of Engineering,Lecturer,Kawai Tam,Tam,176
+huinan.liu@ucr.edu,Bioengineering,Bourns College of Engineering,Professor,Huinan H. Liu,Liu,177
+masaru.rao@ucr.edu,Mechanical Engineering,Bourns College of Engineering,Associate Professor,Masaru P Rao,Rao,178
+yihan.sun@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Assistant Professor,Yihan Sun,Sun,179
+rajiv.gupta@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Chair,Rajiv Gupta,Gupta,180
+tamar.shinar@ucr.edu,Computer Science & Engineering,Bourns College of Engineering,Associate Professor,Tamar T Shinar,Shinar,181
+jianlin.liu@ucr.edu,Electrical & Computer Eng,Bourns College of Engineering,Professor,Jianlin Liu,Liu,182
+christopher.lynch@ucr.edu,Other,Bourns College of Engineering,Dean,Christopher Lynch,Lynch,183
+peter.atkinson@ucr.edu,Entomology,College of Nat & Agr Sciences,Professor,Peter Atkinson,Atkinson,184
+timothy.higham@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Professor,Timothy Higham,Higham,185
+nicole.rafferty@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Assistant Professor,Nicole E Rafferty,Rafferty,186
+katayoon.dehesh@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Distinguished Professor,Katayoon  Dehesh,Dehesh,187
+robert.allen@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Associate Professor,Robert J. Allen,Allen,188
+edward.schwieterman@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Assistant Professor,Edward Schwieterman,Schwieterman,189
+marko.spasojevic@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Assistant Professor,Marko J. Spasojevic,Spasojevic,190
+adler.dillman@ucr.edu,Other,College of Nat & Agr Sciences,Associate Professor,Adler R. Dillman,Dillman,191
+heather.ford@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Assistant Professor,Heather Ford,Ford,192
+chia-en.chang@ucr.edu,Chemistry,College of Nat & Agr Sciences,Professor,Chia-En Angelina Chang,Chang,193
+shujie.ma@ucr.edu,Statistics,College of Nat & Agr Sciences,Professor,Shujie Ma,Ma,194
+pingyun.feng@ucr.edu,Chemistry,College of Nat & Agr Sciences,Professor,Pingyun Feng,Feng,195
+kevin.costello@ucr.edu,Mathematics,College of Nat & Agr Sciences,Associate Professor,Kevin Costello,Costello,196
+roya.zandi@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Professor,Roya Zandi,Zandi,197
+omar.akbari@ucr.edu,Other,College of Nat & Agr Sciences,Assistant Professor,Omar S Akbari,Akbari,198
+hongdian.yang@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Assistant Professor,Hongdian Yang,Yang,199
+natasha.raikhel@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Distinguished Professor,Natasha Raikhel,Raikhel,200
+howard.judelson@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Professor,Howard S Judelson,Judelson,201
+abhijit.ghosh@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Associate Professor,Abhijit Ghosh,Ghosh,202
+martin.riccomagno@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Assistant Professor,Martin M. Riccomagno,Riccomagno,203
+sydney.glassman@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Assistant Professor,Sydney Glassman,Glassman,204
+adam.lukaszewski@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Professor,Adam J. Lukaszewski,Lukaszewski,205
+nic.barth@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Assistant Professor,Nicolas Barth,Barth,206
+stephen.wimpenny@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Professor,Stephen Wimpenny,Wimpenny,207
+jernej.murn@ucr.edu,Biochemistry,College of Nat & Agr Sciences,Assistant Professor,Jernej Murn,Murn,208
+amir.haghverdi@ucr.edu,Environmental Sciences,College of Nat & Agr Sciences,Associate Professor,Amir Haghverdi,Haghverdi,209
+kurt.anderson@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Associate Professor,Kurt Evan Anderson,Anderson,210
+antoon.ploeg@ucr.edu,Other,College of Nat & Agr Sciences,Professor,Antoon T Ploeg,Ploeg,211
+maryjo.brounce@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Assistant Professor,Maryjo Brounce,Brounce,212
+donghwan.choe@ucr.edu,Entomology,College of Nat & Agr Sciences,Associate Professor,Dong-Hwan Choe,Choe,213
+dawn.nagel@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Assistant Professor,Dawn Nagel,Nagel,214
+james.borneman@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Professor,James Borneman,Borneman,215
+jessica.purcell@ucr.edu,Entomology,College of Nat & Agr Sciences,Associate Professor,Jessica Purcell,Purcell,216
+anupama.dahanukar@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Associate Professor,Anupama Arun Dahanukar,Dahanukar,217
+thomas.scott@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Adjunct Professor,Thomas A Scott,Scott,218
+john.heraty@ucr.edu,Entomology,College of Nat & Agr Sciences,Professor,John M Heraty,Heraty,219
+bradley.mullens@ucr.edu,Entomology,College of Nat & Agr Sciences,Professor,Bradley A Mullens,Mullens,220
+allison.hansen@ucr.edu,Entomology,College of Nat & Agr Sciences,Associate Professor,Allison Katherine Hansen,Hansen,221
+michael.adams@ucr.edu,Entomology,College of Nat & Agr Sciences,Professor,Michael E. Adams,Adams,222
+king-fai.li@ucr.edu,Environmental Sciences,College of Nat & Agr Sciences,Assistant Professor,King-Fai Li,Li,223
+leonid.pryadko@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Professor,Leonid Pryadko,Pryadko,224
+analisa.flores@ucr.edu,Statistics,College of Nat & Agr Sciences,Assistant Professor,Analisa M Flores,Flores,225
+bun.wong@ucr.edu,Mathematics,College of Nat & Agr Sciences,Professor,Bun Wong,Wong,226
+bai-lian.li@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Professor,Bai-Lian Larry Li,Li,227
+naveen.reddy@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Associate Professor,Naveen Reddy,Reddy,228
+zhenghe.zhang@ucr.edu,Mathematics,College of Nat & Agr Sciences,Assistant Professor,Zhenghe Zhang,Zhang,229
+sihem.cheloufi@ucr.edu,Biochemistry,College of Nat & Agr Sciences,Assistant Professor,Sihem Cheloufi,Cheloufi,230
+julia.bailey@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Distinguished Professor,Julia Bailey-Serres,Bailey-Serres,231
+stephen.kane@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Professor,Stephen Kane,Kane,232
+jing.shi@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Distinguished Professor,Jing Shi,Shi,233
+exequiel.ezcurra@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Professor,Exequiel Ezcurra,Ezcurra,234
+weitao.chen@ucr.edu,Mathematics,College of Nat & Agr Sciences,Assistant Professor,Weitao Chen,Chen,235
+amy.litt@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Associate Professor,Amy Litt,Litt,236
+ludwig.bartels@ucr.edu,Chemistry,College of Nat & Agr Sciences,Professor,Ludwig Bartels,Bartels,237
+xinping.cui@ucr.edu,Statistics,College of Nat & Agr Sciences,Professor,Xinping Cui,Cui,238
+richard.hooley@ucr.edu,Chemistry,College of Nat & Agr Sciences,Professor,Richard J Hooley,Hooley,239
+linda.walling@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Professor,Linda Walling,Walling,240
+a.rao@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Professor,A. L. N. Rao,Rao,241
+stephanie.dingwall@ucr.edu,Biochemistry,College of Nat & Agr Sciences,Assistant Professor,Stephanie Dingwall,Dingwall,242
+kerry.mauck@ucr.edu,Entomology,College of Nat & Agr Sciences,Assistant Professor,Kerry Elizabeth Mauck,Mauck,243
+feng.xu@ucr.edu,Mathematics,College of Nat & Agr Sciences,Professor,Feng Xu,Xu,244
+jun-hyeong.cho@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Associate Professor,Jun-Hyeong Cho,Cho,245
+boerge.hemmerling@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Assistant Professor,Boerge Hemmerling,Hemmerling,246
+rong.hai@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Assistant Professor,Rong Hai,Hai,247
+jaimie.vannorman@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Assistant Professor,Jaimie Van Norman,Norman,248
+christopher.switzer@ucr.edu,Chemistry,College of Nat & Agr Sciences,Professor,Christopher Switzer,Switzer,249
+andrew.ridgwell@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Professor,Andy Ridgwell,Ridgwell,250
+kirill.shtengel@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Professor,Kirill Shtengel,Shtengel,251
+kimberly.hammond@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Professor,Kimberly Hammond,Hammond,252
+venu.gonehal@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Professor,Venugopala Reddy Gonehal,Gonehal,253
+esra.kurum@ucr.edu,Statistics,College of Nat & Agr Sciences,Assistant Professor,Esra Kurum,Kurum,254
+jason.stajich@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Professor,Jason Stajich,Stajich,255
+alexander.raikhel@ucr.edu,Entomology,College of Nat & Agr Sciences,Distinguished Professor,Alexander S Raikhel,Raikhel,256
+juanpablo.giraldo@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Associate Professor,Juan Pablo Giraldo,Giraldo,257
+jacob.greenstein@ucr.edu,Mathematics,College of Nat & Agr Sciences,Professor,Jacob Greenstein,Greenstein,258
+zhenbiao.yang@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Professor,Zhenbiao Yang,Yang,259
+thomas.perring@ucr.edu,Entomology,College of Nat & Agr Sciences,Professor,Thomas M Perring,Perring,260
+patricia.manosalva@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Assistant Professor,Patricia Merced Manosalva,Manosalva,261
+richard.cardullo@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Professor,Richard Cardullo,Cardullo,262
+jose.gonzalez@ucr.edu,Mathematics,College of Nat & Agr Sciences,Assistant Professor,Jose Gonzalez,Gonzalez,263
+igor.barsukov@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Assistant Professor,Igor Barsukov,Barsukov,264
+thomas.eulgem@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Professor,Thomas Eulgem,Eulgem,265
+jun.li@ucr.edu,Statistics,College of Nat & Agr Sciences,Professor,Jun Li,Li,266
+gordon.love@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Professor,Gordon Love,Love,267
+roby.douilly@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Assistant Professor,Roby Douilly,Douilly,268
+arthur.jia@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Associate Professor,Zhenyu  Jia,Jia,269
+anson.daloisio@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Assistant Professor,Anson D'Aloisio,D'Aloisio,270
+laosheng.wu@ucr.edu,Environmental Sciences,College of Nat & Agr Sciences,Professor,Laosheng Wu,Wu,271
+peter.sadler@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Professor,Peter M Sadler,Sadler,272
+yanou.cui@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Assistant Professor,Yanou Cui,Cui,273
+gareth.funning@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Professor,Gareth Funning,Funning,274
+harry.tom@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Professor,Harry W K Tom,Tom,275
+fedor.karginov@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Associate Professor,Ted Karginov,Karginov,276
+john.ellison@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Professor,John Ellison,Ellison,277
+andrew.gray@ucr.edu,Environmental Sciences,College of Nat & Agr Sciences,Assistant Professor,Andrew B. Gray,Gray,278
+jim.adaskaveg@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Professor,Jim Adaskaveg,Adaskaveg,279
+mark.springer@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Professor,Mark S Springer,Springer,280
+ring.carde@ucr.edu,Entomology,College of Nat & Agr Sciences,Chair,Ring T Carde,Carde,281
+shan-wen.tsai@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Associate Professor,Shan-Wen Tsai,Tsai,282
+dmitri.maslov@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Professor,Dmitri Maslov,Maslov,283
+yongtao.cui@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Assistant Professor,Yongtao Cui,Cui,284
+paul.deley@ucr.edu,Other,College of Nat & Agr Sciences,Associate Professor,Paul De Ley,Ley,285
+russ.hille@ucr.edu,Biochemistry,College of Nat & Agr Sciences,Professor,Russ Hille,Hille,286
+michael.pirrung@ucr.edu,Chemistry,College of Nat & Agr Sciences,Distinguished Professor,Michael C. Pirrung,Pirrung,287
+weifeng.gu@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Associate Professor,Weifeng Gu,Gu,288
+raphael.zidovetzki@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Professor,Raphael Zidovetzki,Zidovetzki,289
+andrey.bekker@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Associate Professor,Andrey Bekker,Bekker,290
+mikeal.roose@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Professor,Mikeal L. Roose,Roose,291
+jocelyn.millar@ucr.edu,Entomology,College of Nat & Agr Sciences,Distinguished Professor,Jocelyn G Millar,Millar,292
+quinn.mcfrederick@ucr.edu,Entomology,College of Nat & Agr Sciences,Associate Professor,Quinn Mcfrederick,Mcfrederick,293
+christopher.clark@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Associate Professor,Christopher Clark,Clark,294
+shou-wei.ding@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Professor,Shou-Wei Ding,Ding,295
+richard.seto@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Professor,Richard Seto,Seto,296
+paul.nabity@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Assistant Professor,Paul D Nabity,Nabity,297
+michael.curtis@ucr.edu,Mathematics,College of Nat & Agr Sciences,Lecturer,Michael Curtis,Curtis,298
+william.porter@ucr.edu,Environmental Sciences,College of Nat & Agr Sciences,Assistant Professor,William Porter,Porter,299
+manuela.martins@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Professor,Manuela Martins-Green,Martins-Green,300
+joel.sachs@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Professor,Joel L. Sachs,Sachs,301
+anand.ray@ucr.edu,"Molecular, Cell & Systems Bio",College of Nat & Agr Sciences,Professor,Anand Ray,Ray,302
+sandra.kirtlandturner@ucr.edu,Earth and Planetary Sciences,College of Nat & Agr Sciences,Associate Professor,Sandra Kirtland Turner,Turner,303
+david.hill@ucr.edu,Chemistry,College of Nat & Agr Sciences,Lecturer,David Kirby Hill,Hill,304
+richard.redak@ucr.edu,Entomology,College of Nat & Agr Sciences,Chair,Rick Redak,Redak,305
+george.becker@ucr.edu,Physics and Astronomy,College of Nat & Agr Sciences,Associate Professor,George Becker,Becker,306
+emma.aronson@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Associate Professor,Emma Aronson,Aronson,307
+leonard.mueller@ucr.edu,Chemistry,College of Nat & Agr Sciences,Chair,Leonard J Mueller,Mueller,308
+alan.brelsford@ucr.edu,"Evolution, Ecology & Orgns Bio",College of Nat & Agr Sciences,Assistant Professor,Alan Brelsford,Brelsford,309
+reinhard.schultz@ucr.edu,Mathematics,College of Nat & Agr Sciences,Professor,Reinhard Schultz,Schultz,310
+brian.federici@ucr.edu,Entomology,College of Nat & Agr Sciences,Distinguished Professor,Brian A Federici,Federici,311
+ansel.hsiao@ucr.edu,Microbiology & Plant Pathology,College of Nat & Agr Sciences,Assistant Professor,Ansel Hsiao,Hsiao,312
+meng.chen@ucr.edu,Botany and Plant Sciences,College of Nat & Agr Sciences,Professor,Meng Chen,Chen,313
+edgar.tellezfoster@ucr.edu,Environmental Sciences,College of Nat & Agr Sciences,Adjunct Professor,Edgar Tellez-Foster,Tellez-Foster,314
+min.xue@ucr.edu,Chemistry,College of Nat & Agr Sciences,Assistant Professor,Min Xue,Xue,315
+tae.lee@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Professor,Tae-Hwy Lee,Lee,316
+emily.hue@ucr.edu,Ethnic Studies,"Coll of Hum, Arts & Social Sci",Assistant Professor,Emily Hue,Hue,317
+howard.friedman@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Howard S Friedman,Friedman,318
+patricia.morton@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Patricia Morton,Morton,319
+jimmy.calanchini@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Assistant Professor,Jimmy Calanchini,Calanchini,320
+padma.rangarajan@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Associate Professor,Padma Rangarajan,Rangarajan,321
+nawa.sugiyama@ucr.edu,Anthropology,"Coll of Hum, Arts & Social Sci",Assistant Professor,Nawa Sugiyama,Sugiyama,322
+jennifer.najera@ucr.edu,Ethnic Studies,"Coll of Hum, Arts & Social Sci",Chair,Jennifer R. Nájera,Nájera,323
+reza.aslan@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Professor,Reza Aslan,Aslan,324
+mehdi.nemati@ucr.edu,Other,"Coll of Hum, Arts & Social Sci",Assistant Professor,Mehdi Nemati,Nemati,325
+sang-hee.lee@ucr.edu,Anthropology,"Coll of Hum, Arts & Social Sci",Professor,Sang-Hee Lee,Lee,326
+tom.lutz@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Chair,Tom Lutz,Lutz,327
+jana.grittersova@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Associate Professor,Jana Grittersova,Grittersova,328
+bella.merlin@ucr.edu,Theatre,"Coll of Hum, Arts & Social Sci",Professor,Bella Merlin,Merlin,329
+susan.laxton@ucr.edu,History of Art,"Coll of Hum, Arts & Social Sci",Associate Professor,Susan J Laxton,Laxton,330
+muhamad.ali@ucr.edu,Religious Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Muhamad Ali,Ali,331
+patricia.cardoso@ucr.edu,Theatre,"Coll of Hum, Arts & Social Sci",Professor,Patricia Cardoso,Cardoso,332
+kelle.truby@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Lecturer,Kelle Truby,Truby,333
+jennifer.doyle@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Professor,Jennifer Doyle,Doyle,334
+jose.reynoso@ucr.edu,Dance,"Coll of Hum, Arts & Social Sci",Professor,Jose Luis Reynoso,Reynoso,335
+nicoletta.tinozzi@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Lecturer,Nicoletta Tinozzi-Mehrmand,Tinozzi-Mehrmand,336
+ian.whitelaw@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Ian J Whitelaw,Whitelaw,337
+natasha.mcpherson@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Assistant Professor,Natasha L Mcpherson,Mcpherson,338
+ruth.charloff@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Ruth Charloff,Charloff,339
+yolanda1.cardenas@ucr.edu,Hispanic Studies,"Coll of Hum, Arts & Social Sci",Lecturer,Yolanda Cardenas,Cardenas,340
+christina.schwenkel@ucr.edu,Anthropology,"Coll of Hum, Arts & Social Sci",Professor,Christina Schwenkel,Schwenkel,341
+paul.green@ucr.edu,Ethnic Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Paul Green,Green,342
+james.brennan@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Professor,James P Brennan,Brennan,343
+dana.simmons@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Associate Professor,Dana J Simmons,Simmons,344
+jacqueline.sheamurphy@ucr.edu,Dance,"Coll of Hum, Arts & Social Sci",Associate Professor,Jacqueline Shea Murphy,Murphy,345
+michelle.raheja@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Associate Professor,Michelle H Raheja,Raheja,346
+anusha.kedhar@ucr.edu,Dance,"Coll of Hum, Arts & Social Sci",Assistant Professor,Anusha L Kedhar,Kedhar,347
+katie.ford@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Professor,Katie M Ford,Ford,348
+aaron.seitz@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Professor,Aaron Seitz,Seitz,349
+nikolai.ingistovgarcia@ucr.edu,Hispanic Studies,"Coll of Hum, Arts & Social Sci",Lecturer,Nikolai Ingistov-Garcia,Ingistov-Garcia,350
+noel.pereyra-johnston@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Assistant Professor,Noel Pereyra-Johnston,Pereyra-Johnston,351
+tagumpay.deleon@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Tagumpay M De Leon,Leon,352
+mark.smith@ucr.edu,MFA Writing Desert Campus,"Coll of Hum, Arts & Social Sci",Adjunct Professor,Mark Haskell Smith,Smith,353
+piotr.gorecki@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Professor,Piotr S Gorecki,Gorecki,354
+dylan.rodriguez@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Professor,Dylan Rodriguez,Rodriguez,355
+laila.lalami@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Professor,Laila Lalami,Lalami,356
+william.rabkin@ucr.edu,MFA Writing Desert Campus,"Coll of Hum, Arts & Social Sci",Adjunct Professor,William Rabkin,Rabkin,357
+allison.hedgecoke@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Allison Adelle Hedge Coke,Coke,358
+susan.straight@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Susan C Straight,Straight,359
+tod.goldberg@ucr.edu,MFA Writing Desert Campus,"Coll of Hum, Arts & Social Sci",Adjunct Professor,Tod Goldberg,Goldberg,360
+daniel.ozer@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Chair,Daniel Ozer,Ozer,361
+raymond.williams@ucr.edu,Hispanic Studies,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Raymond L Williams,Williams,362
+jangting.guo@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Professor,Jang-Ting Guo,Guo,363
+weihsin.gui@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Associate Professor,Weihsin Gui,Gui,364
+ugoantonio.troiano@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Associate Professor,Ugo Antonio Troiano,Troiano,365
+charmaine.craig@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Associate Professor,Charmaine Craig,Craig,366
+traise.yamamoto@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Associate Professor,Traise Yamamoto,Yamamoto,367
+flannery.wilson@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Lecturer,Flannery R Wilson,Wilson,368
+jan.stets@ucr.edu,Sociology,"Coll of Hum, Arts & Social Sci",Professor,Jan E Stets,Stets,369
+setsu.shigematsu@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Setsu Shigematsu,Shigematsu,370
+aerika.loyd@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Associate Professor,Aerika Brittian Loyd,Loyd,371
+gary.barnett@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Gary W Barnett,Barnett,372
+jozef.muller@ucr.edu,Philosophy,"Coll of Hum, Arts & Social Sci",Associate Professor,Jozef Müller,Müller,373
+benjamin.king@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Lecturer,Benjamin King,King,374
+maricarmen.ballester@ucr.edu,Hispanic Studies,"Coll of Hum, Arts & Social Sci",Lecturer,Mari-Carmen Ballester,Ballester,375
+janet.hill@ucr.edu,Sociology,"Coll of Hum, Arts & Social Sci",Lecturer,Janet Hill,Hill,376
+jennifer.hughes@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Professor,Jennifer Hughes,Hughes,377
+aman.ullah@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Aman Ullah,Ullah,378
+travis.stanton@ucr.edu,Anthropology,"Coll of Hum, Arts & Social Sci",Professor,Travis William Stanton,Stanton,379
+christopher.simon@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Lecturer,Christopher M Simon,Simon,380
+ian.dicke@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Associate Professor,Ian Dicke,Dicke,381
+anthony.macias@ucr.edu,Ethnic Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Anthony Macias,Macias,382
+deborah.wong@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Professor,Deborah Wong,Wong,383
+amir.zaki@ucr.edu,Art,"Coll of Hum, Arts & Social Sci",Professor,Amir Zaki,Zaki,384
+michael.nelson@ucr.edu,Philosophy,"Coll of Hum, Arts & Social Sci",Associate Professor,Michael D Nelson,Nelson,385
+frances.moore@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Frances Moore,Moore,386
+enrique.lopez@ucr.edu,Ethnic Studies,"Coll of Hum, Arts & Social Sci",Professor,Enrique M Lopez,Lopez,387
+bruce.bordner@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Lecturer,Bruce Bordner,Bordner,388
+lisa.raphals@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Professor,Lisa Raphals,Raphals,389
+amalia.cabezas@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Amalia L Cabezas,Cabezas,390
+brandon.williams@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Lecturer,Brandon Joshua Williams,Williams,391
+deborah.willis@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Associate Professor,Deborah Willis,Willis,392
+hendrik.maier@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Professor,Hendrik Mj Maier,Maier,393
+andreas.westphal@ucr.edu,Other,"Coll of Hum, Arts & Social Sci",Professor,Andreas Westphal,Westphal,394
+rogerio.budasz@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Chair,Rogerio Budasz,Budasz,395
+michael.alexander@ucr.edu,Religious Studies,"Coll of Hum, Arts & Social Sci",Chair,Michael Scott Alexander,Alexander,396
+andrews.reath@ucr.edu,Philosophy,"Coll of Hum, Arts & Social Sci",Chair,Andrews Reath,Reath,397
+annie.ditta@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Assistant Professor,Annie Stanfield Ditta,Ditta,398
+freya.schiwy@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Professor,Freya Schiwy,Schiwy,399
+emma.stapely@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Assistant Professor,Emma Tiril Stapely,Stapely,400
+jeremy.busacca@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Lecturer,Jeremy D Busacca,Busacca,401
+nija.whitson@ucr.edu,Dance,"Coll of Hum, Arts & Social Sci",Assistant Professor,Ni'Ja Whitson,Whitson,402
+daniel.biggers@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Associate Professor,Daniel Biggers,Biggers,403
+aleca.leblanc@ucr.edu,History of Art,"Coll of Hum, Arts & Social Sci",Assistant Professor,Aleca Le Blanc,Blanc,404
+goldberry.long@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Associate Professor,Goldberry Long,Long,405
+michele.salzman@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Professor,Michele Renee Salzman,Salzman,406
+Jennifer.simmers@ucr.edu,Sociology,"Coll of Hum, Arts & Social Sci",Lecturer,Jennifer Kimea Simmers,Simmers,407
+denver.graninger@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Associate Professor,Denver Graninger,Graninger,408
+weiwei.zhang@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Associate Professor,Weiwei Zhang,Zhang,409
+coleen.macnamara@ucr.edu,Philosophy,"Coll of Hum, Arts & Social Sci",Associate Professor,Coleen A Macnamara,Macnamara,410
+christopher.schmitt@ucr.edu,Sociology,"Coll of Hum, Arts & Social Sci",Lecturer,Christopher S Schmitt,Schmitt,411
+randolph.head@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Professor,Randolph C Head,Head,412
+lisa.cherry@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Lisa Cherry,Cherry,413
+sara.borjas@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Lecturer,Sara Borjas,Borjas,414
+keith.miyake@ucr.edu,Ethnic Studies,"Coll of Hum, Arts & Social Sci",Assistant Professor,Keith K. Miyake,Miyake,415
+lawrence.rosenblum@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Professor,Lawrence D. Rosenblum,Rosenblum,416
+miguel.carreras@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Associate Professor,Miguel Carreras,Carreras,417
+ruoyao.shi@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Assistant Professor,Ruoyao Shi,Shi,418
+bree.lang@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Associate Professor,Bree Jones Lang,Lang,419
+armando.garcia018@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Assistant Professor,Armando García,García,420
+cynthia.flores@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Cynthia R Flores,Flores,421
+molly.mcgarry@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Associate Professor,Molly Mcgarry,Mcgarry,422
+vrinda.chidambaram@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Assistant Professor,Vrinda Chidambaram,Chidambaram,423
+matthew.wyckoff@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Matthew Scott Wyckoff,Wyckoff,424
+camelia.voin-gheorghe@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Camelia Voin-Gheorghe,Voin-Gheorghe,425
+vorris.nunley@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Associate Professor,Associate Professor Vorris L Nunley,Nunley,426
+tamara.ho@ucr.edu,Gender & Sexuality Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Tamara C. Ho,Ho,427
+covadonga.lamarprieto@ucr.edu,Hispanic Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Covadonga Lamar-Prieto,Lamar-Prieto,428
+kelly.jeong@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Associate Professor,Kelly Yoojeong Jeong,Jeong,429
+sarah.conaway@ucr.edu,Art,"Coll of Hum, Arts & Social Sci",Lecturer,Sarah Lois Conaway,Conaway,430
+brian.lloyd@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Associate Professor,Brian D Lloyd,Lloyd,431
+michael.birnbaum@ucr.edu,MFA Writing Desert Campus,"Coll of Hum, Arts & Social Sci",Adjunct Professor,Michael Joshua Birnbaum,Birnbaum,432
+stu.krieger@ucr.edu,Theatre,"Coll of Hum, Arts & Social Sci",Professor,Stu Krieger,Krieger,433
+yolanda.moses@ucr.edu,Anthropology,"Coll of Hum, Arts & Social Sci",Professor,Yolanda Moses,Moses,434
+jill.essbaum@ucr.edu,MFA Writing Desert Campus,"Coll of Hum, Arts & Social Sci",Adjunct Professor,Jill A Essbaum,Essbaum,435
+tuppett.yates@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Professor,Tuppett M. Yates,Yates,436
+alfonso.gonzales@ucr.edu,Ethnic Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Alfonso Gonzales Toribio,Toribio,437
+ayana.flewellen@ucr.edu,Anthropology,"Coll of Hum, Arts & Social Sci",Assistant Professor,Ayana Omilade Flewellen,Flewellen,438
+taradas.bandyopadhyay@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Professor,Taradas Bandyopadhyay,Bandyopadhyay,439
+ronald.loveridge@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Associate Professor,Ronald O Loveridge,Loveridge,440
+alejandra.dubcovsky@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Associate Professor,Alejandra Dubcovsky,Dubcovsky,441
+brandon.aiken@ucr.edu,Dance,"Coll of Hum, Arts & Social Sci",Lecturer,Brandon J Aiken,Aiken,442
+sarojini.hirshleifer@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Assistant Professor,Sarojini Hirshleifer,Hirshleifer,443
+luis.carazo@ucr.edu,Theatre,"Coll of Hum, Arts & Social Sci",Lecturer,Luis Enrique Carazo,Carazo,444
+charles.evered@ucr.edu,Theatre,"Coll of Hum, Arts & Social Sci",Professor,Charles Evered,Evered,445
+katherine.kinney@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Associate Professor,Katherine Kinney,Kinney,446
+john.jennings@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Professor,John Jennings,Jennings,447
+edward.zagha@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Assistant Professor,Edward Zagha,Zagha,448
+anthonia.kalu@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Professor,Anthonia Kalu,Kalu,449
+megan.robbins@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Associate Professor,Megan L Robbins,Robbins,450
+allison.white@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Associate Professor,Allison B White,White,451
+jacques.lezra@ucr.edu,Hispanic Studies,"Coll of Hum, Arts & Social Sci",Professor,Jacques Lezra,Lezra,452
+maude.clark@ucr.edu,Philosophy,"Coll of Hum, Arts & Social Sci",Professor,Maude Clark,Clark,453
+thomas.sy@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Associate Professor,Tom Sy,Sy,454
+stefan.chrissanthos@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Lecturer,Stefan Chrissanthos,Chrissanthos,455
+katharine.sweeny@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Professor,Kate Sweeny,Sweeny,456
+nicolette.a.rohr@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Lecturer,Nicolette Avie Rohr,Rohr,457
+richard.rodriguez@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Professor,Richard T. Rodríguez,Rodríguez,458
+joshua.hardina@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Lecturer,Joshua Hardina,Hardina,459
+jade.sasser@ucr.edu,Gender & Sexuality Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Jade S. Sasser,Sasser,460
+randol.contreras@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Dr. Randol Contreras,Contreras,461
+rachellea.cruz@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Lecturer,Rachelle Cruz,Cruz,462
+rebekah.richert@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Professor,Rebekah Richert,Richert,463
+robert.dominguez@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Robert D Dominguez,Dominguez,464
+john.kim@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Associate Professor,John Namjun Kim,Kim,465
+adam.harmer@ucr.edu,Philosophy,"Coll of Hum, Arts & Social Sci",Assistant Professor,Adam Harmer,Harmer,466
+latipa.x@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Michelle Dizon,Dizon,467
+marta.hernandez@ucr.edu,Hispanic Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Marta Hernandez Salvan,Salvan,468
+anna.betbeze@ucr.edu,Art,"Coll of Hum, Arts & Social Sci",Assistant Professor,Anna G Betbeze,Betbeze,469
+michael.bucklin@ucr.edu,Theatre,"Coll of Hum, Arts & Social Sci",Lecturer,Michael Rc Bucklin,Bucklin,470
+peter.graham@ucr.edu,Philosophy,"Coll of Hum, Arts & Social Sci",Professor,Peter Graham,Graham,471
+caroleanne.tyler@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Associate Professor,Carole-Anne Tyler,Tyler,472
+glenn.stanley@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Professor,B. Glenn Stanley,Stanley,473
+mark.minch@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Assistant Professor,Mark Minch-De Leon,Leon,474
+christine.duverge@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Lecturer,Christine Duverge,Duverge,475
+amy.kenny@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Lecturer,Amy Kenny,Kenny,476
+jeff.sacks@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Associate Professor,Jeffrey Adam Sacks,Sacks,477
+andrew.winer@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Associate Professor,Andrew Winer,Winer,478
+joshua.welchez@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Joshua M Welchez,Welchez,479
+catherine.gudis@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Associate Professor,Catherine Gudis,Gudis,480
+alessandro.fornazzari@ucr.edu,Hispanic Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Alessandro Fornazzari,Fornazzari,481
+michelle.bloom@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Professor,Michelle Bloom,Bloom,482
+john.laursen@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Professor,John Christian Laursen,Laursen,483
+anthea.kraut@ucr.edu,Dance,"Coll of Hum, Arts & Social Sci",Professor,Anthea Kraut,Kraut,484
+liz.przybylski@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Associate Professor,Liz Przybylski,Przybylski,485
+kenichiro.tsukamoto@ucr.edu,Anthropology,"Coll of Hum, Arts & Social Sci",Associate Professor,Kenichiro Tsukamoto,Tsukamoto,486
+lynne.marsh@ucr.edu,Art,"Coll of Hum, Arts & Social Sci",Associate Professor,Lynne Marsh,Marsh,487
+yunhee.min@ucr.edu,Art,"Coll of Hum, Arts & Social Sci",Chair,Yunhee Min,Min,488
+steven.axelrod@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Steven G Axelrod,Axelrod,489
+yang.xie@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Assistant Professor,Yang Xie,Xie,490
+ozkan.eren@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Associate Professor,Ozkan Eren,Eren,491
+anubhuti.goel@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Assistant Professor,Anubhuti Goel,Goel,492
+tim.labor@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Professor,Timothy Labor,Labor,493
+wesley.leonard@ucr.edu,Ethnic Studies,"Coll of Hum, Arts & Social Sci",Associate Professor,Wesley Y. Leonard,Leonard,494
+mary.gauvain@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Mary Gauvain,Gauvain,495
+carl.cranor@ucr.edu,Philosophy,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Carl F Cranor,Cranor,496
+david.funder@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Distinguished Professor,David Funder,Funder,497
+chandra.reynolds@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Professor,Chandra A Reynolds,Reynolds,498
+michael.hawkins@ucr.edu,History,"Coll of Hum, Arts & Social Sci",Lecturer,Michael G Hawkins,Hawkins,499
+kalina.michalska@ucr.edu,Psychology,"Coll of Hum, Arts & Social Sci",Assistant Professor,Kalina J. Michalska,Michalska,500
+george.sarraf@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Lecturer,George Sarraf,Sarraf,501
+dana.kaufman@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Assistant Professor,Dana E Kaufman,Kaufman,502
+yasemin.irepoglucarreras@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Assistant Professor,Yasemin Irepoglu Carreras,Carreras,503
+sherryl.vint@ucr.edu,Media & Cultural Studies,"Coll of Hum, Arts & Social Sci",Professor,Sherryl Vint,Vint,504
+thomas.patterson@ucr.edu,Anthropology,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Thomas C Patterson,Patterson,505
+john.medearis@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Professor,John N Medearis,Medearis,506
+blair.davis@ucr.edu,History of Art,"Coll of Hum, Arts & Social Sci",Lecturer,Blair H Davis,Davis,507
+wendy.raschke@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Lecturer,Wendy Raschke,Raschke,508
+stephen.erickson@ucr.edu,Creative Writing,"Coll of Hum, Arts & Social Sci",Distinguished Professor,Steve Erickson,Erickson,509
+kevin.esterling@ucr.edu,Political Science,"Coll of Hum, Arts & Social Sci",Professor,Kevin M. Esterling,Esterling,510
+david.swanson@ucr.edu,Sociology,"Coll of Hum, Arts & Social Sci",Professor,David A. Swanson,Swanson,511
+anthony.jerry@ucr.edu,Anthropology,"Coll of Hum, Arts & Social Sci",Assistant Professor,Anthony R Jerry,Jerry,512
+robert.clark@ucr.edu,Sociology,"Coll of Hum, Arts & Social Sci",Associate Professor,Robert Clark,Clark,513
+celia.chanvalerio@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Celia M Chan Valerio,Valerio,514
+brandon.lattu@ucr.edu,Art,"Coll of Hum, Arts & Social Sci",Professor,Brandon Lattu,Lattu,515
+robert.scarano@ucr.edu,Music,"Coll of Hum, Arts & Social Sci",Lecturer,Robert L Scarano,Scarano,516
+joab.corey@ucr.edu,Economics,"Coll of Hum, Arts & Social Sci",Associate Professor,Joab Corey,Corey,517
+andre.carrington@ucr.edu,English,"Coll of Hum, Arts & Social Sci",Associate Professor,André Carrington,Carrington,518
+annika.speer@ucr.edu,Theatre,"Coll of Hum, Arts & Social Sci",Professor,Annika Speer,Speer,519
+heidi.waltz@ucr.edu,Comparative Lit & Languages,"Coll of Hum, Arts & Social Sci",Lecturer,Heidi Waltz,Waltz,520
+jonathan.espenschied@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Jonathan Espenschied,Espenschied,521
+maher.roman@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Maher Roman,Roman,522
+mimi.le@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Mimi Q Le,Le,523
+hoveda.mufti@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Hoveda S. Mufti,Mufti,524
+junil.ahn@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Junil Ahn,Ahn,525
+omid.bakhtar@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Omid Bakhtar,Bakhtar,526
+ashis.mukherjee@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Ashis Mukherjee,Mukherjee,527
+suvan.sachdev@ucr.edu,SOM - Dean's Office,School of Medicine,Assistant Professor,Suvan Sachdev,Sachdev,528
+david.tang@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,David Hounchang Tang,Tang,529
+rebecca.kornbluh@ucr.edu,SOM Neuroscience,School of Medicine,Associate Professor,Rebecca A Kornbluh,Kornbluh,530
+kathie.huang@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Kathie K Huang,Huang,531
+christinea.duong@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Christine A. Duong,Duong,532
+made.sutjita@ucr.edu,SOM Internal Medicine,School of Medicine,Professor,Made Sutjita,Sutjita,533
+chao-huang.sun@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Chao-Huang Sun,Sun,534
+christian.bianchi@ucr.edu,SOM Surgery,School of Medicine,Associate Professor,Christian Bianchi,Bianchi,535
+darren.freeman@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Darren Freeman,Freeman,536
+salim.harianawala@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Salim Harianawala,Harianawala,537
+bryan.hyler@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Bryan Hyler,Hyler,538
+michael.ree@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Michael H Ree,Ree,539
+bolanle.oluwadara@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Bolanle Oluwadara,Oluwadara,540
+ling.xu@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Ling Xu,Xu,541
+ekua.cobbina@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Ekua Cobbina,Cobbina,542
+mashal.shamel@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Mashal A Shamel,Shamel,543
+david.baloga@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,David M Baloga,Baloga,544
+john.branch@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,John D Branch,Branch,545
+gary.barker@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Gary Barker,Barker,546
+afshin.molkara@ucr.edu,SOM Surgery,School of Medicine,Professor,Afshin Molkara,Molkara,547
+vien.doan@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Vien D Doan,Doan,548
+bing.huang@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Bing Huang,Huang,549
+samuel.oh@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Samuel Oh,Oh,550
+shawn.higuchi@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Shawn Kazuo Higuchi,Higuchi,551
+adwoa.osei@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Adwoa Osei,Osei,552
+moazzum.n.bajwa@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Moazzum Nabeel Bajwa,Bajwa,553
+gregory.shimizu@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Gregory Shimizu,Shimizu,554
+uqbah.taksh@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Uqbah Taksh,Taksh,555
+sarah.rasheed@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Sarah S Rasheed,Rasheed,556
+howard.cohen@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Howard B Cohen,Cohen,557
+peter.gelker@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Peter Gelker,Gelker,558
+tony.lee@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Tony B Lee,Lee,559
+stacie.cruz@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Stacie Cruz,Cruz,560
+ihoranton.galarnyk@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Ihor Anton Galarnyk,Galarnyk,561
+nimish.thaker@ucr.edu,SOM Medicine,School of Medicine,Associate Professor,Nimish Thaker,Thaker,562
+neal.slatkin@ucr.edu,SOM Neuroscience,School of Medicine,Associate Professor,Neal Slatkin,Slatkin,563
+david.wilbur@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,David Wilbur,Wilbur,564
+albert.khait@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Albert Khait,Khait,565
+luther.davis@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Luther Eugene Davis,Davis,566
+duy.bui@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Duy Bui,Bui,567
+david.seigler@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,David Seigler,Seigler,568
+lionel.lee@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Lionel Holden Lee,Lee,569
+shant.kalanjian@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Shant Kalanjian,Kalanjian,570
+alan.kwasman@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Alan Kwasman,Kwasman,571
+narsis.golkarieh@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Narsis Golkarieh,Golkarieh,572
+jacqueline.kim-le@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Jacqueline Kim Le,Le,573
+thomas.chen@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Thomas Chen,Chen,574
+robert.theal@ucr.edu,SOM - Dean's Office,School of Medicine,Assistant Professor,Robert Theal,Theal,575
+jeffrey.lapoint@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Jeffrey Michael Lapoint,Lapoint,576
+adam.ebreo@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Adam Ebreo,Ebreo,577
+gamal.ghaly@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Gamal Ghaly,Ghaly,578
+jesse.tweed@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Jesse Tweed,Tweed,579
+mary.san-antonio@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Mary San Antonio,Antonio,580
+chiayu.chen@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Chiayu Chen,Chen,581
+zeid.kayali@ucr.edu,SOM Internal Medicine,School of Medicine,Professor,Zeid Kayali,Kayali,582
+roshinie.fernando@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Roshinie Fernando,Fernando,583
+scott.kubomoto@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Scott Kubomoto,Kubomoto,584
+jonathan.kei@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Jonathan Kei,Kei,585
+issa.alesh@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Issa Alesh,Alesh,586
+rodolfo.escutin@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Rodolfo O Escutin,Escutin,587
+uri.ben-zur@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Uri M Ben-Zur,Ben-Zur,588
+adam.chen@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Adam I Chen,Chen,589
+gina.harold@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Gina Harold,Harold,590
+genaro.martinez@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Genaro Aguirre Martinez,Martinez,591
+lama.al-khoury@ucr.edu,SOM Neuroscience,School of Medicine,Associate Professor,Lama Al-Khoury,Al-Khoury,592
+darcy.bryan@ucr.edu,SOM - Dean's Office,School of Medicine,Assistant Professor,Darcy Bryan,Bryan,593
+monika.kief-garcia@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Monika L Kief-Garcia,Kief-Garcia,594
+elizabeth.dameff@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Elizabeth Dameff,Dameff,595
+destry.washburn@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Destry Washburn,Washburn,596
+sara.forouhar@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Sara Forouhar,Forouhar,597
+alejandro.soto@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Alejandro Soto,Soto,598
+kamal.kejriwal@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Kamal Kejriwal,Kejriwal,599
+parag.mehtani@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Parag Mehtani,Mehtani,600
+adam.godzik@ucr.edu,Biomedical Sciences,School of Medicine,Professor,Adam Godzik,Godzik,601
+elizabeth.smith@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Elizabeth B Smith,Smith,602
+christopher.cooper@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Christopher Cooper,Cooper,603
+theodore.teruya@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Theodore Teruya,Teruya,604
+christina.jenkins@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Christina Jenkins,Jenkins,605
+timothy.hantz@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Timothy Hantz,Hantz,606
+rolando.gutierrez@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Rolando Gutierrez,Gutierrez,607
+aldon.li@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Aldon Li,Li,608
+usha.mantha@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Usha Mantha,Mantha,609
+prashanth.gowda@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Prashanth Gowda,Gowda,610
+jason.kellogg@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Jason P Kellogg,Kellogg,611
+howard.moss@ucr.edu,SOM Neuroscience,School of Medicine,Professor,Howard B. Moss,Moss,612
+joseph.schneider@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Joseph Anthony Schneider,Schneider,613
+john.schlechter@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,John Schlechter,Schlechter,614
+michael.kang@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Michael Kang,Kang,615
+dennis.alters@ucr.edu,SOM Neuroscience,School of Medicine,Professor,Dennis B. Alters,Alters,616
+noel.hui@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Noel Hui,Hui,617
+stewart.shankel@ucr.edu,SOM Internal Medicine,School of Medicine,Professor,Stewart Shankel,Shankel,618
+baldev.rai@ucr.edu,SOM Neuroscience,School of Medicine,Associate Professor,Baldev Rai,Rai,619
+michael.chin@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Michael Chin,Chin,620
+brian.petrie@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Brian Petrie,Petrie,621
+mina.mikhail@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Mina N Mikhail,Mikhail,622
+hoda.mojaziamiri@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Hoda Mojazi-Amiri,Mojazi-Amiri,623
+gary.levinson@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Gary Allen Levinson,Levinson,624
+stephen.patterson@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Stephen Christo Patterson,Patterson,625
+bipin.patel@ucr.edu,SOM Neuroscience,School of Medicine,Associate Professor,Bipin L. Patel,Patel,626
+kelvin.wong@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Kelvin L Wong,Wong,627
+arlenne.shapov@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Arlenne Shapov,Shapov,628
+parastou.farhadian@ucr.edu,Dept. of Family Medicine,School of Medicine,Associate Professor,Parastou Farhadian,Farhadian,629
+emma.wilson@ucr.edu,Biomedical Sciences,School of Medicine,Professor,Emma H Wilson,Wilson,630
+charles.kahn@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Charles Kahn,Kahn,631
+brian.lim@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Brian S Lim,Lim,632
+zana.shirwan@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Zana Shirwan,Shirwan,633
+allan.churukian@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Allan Churukian,Churukian,634
+gregory.tan@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Gregory J Tan,Tan,635
+dalia.balsamo@ucr.edu,SOM Neuroscience,School of Medicine,Associate Professor,Dalia N. Balsamo,Balsamo,636
+ann.cheney@ucr.edu,Other,School of Medicine,Associate Professor,Ann Marie Cheney,Cheney,637
+hidehisa.takei@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Hidehisa Thomas Takei,Takei,638
+kumar.venkat@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Kumar Venkat,Venkat,639
+shelley.mueller@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Shelley Mueller,Mueller,640
+edward.javor@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Edward Daniel Javor,Javor,641
+roger.garrison@ucr.edu,SOM Internal Medicine,School of Medicine,Professor,Corey Garrison,Garrison,642
+reza.vaezazizi@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Reza Vaezazizi,Vaezazizi,643
+albert.ko@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Albert S Ko,Ko,644
+dale.daniel@ucr.edu,SOM Surgery,School of Medicine,Associate Professor,Dale D Daniel,Daniel,645
+james.wallman@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Jim Wallman,Wallman,646
+suvesh.chandiok@ucr.edu,SOM Internal Medicine,School of Medicine,Professor,Suvesh Chandiok,Chandiok,647
+susan.irishzelener@ucr.edu,Other,School of Medicine,Assistant Professor,Susan Irish-Zelener,Irish-Zelener,648
+kentr.johnson@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Kent Johnson,Johnson,649
+narasimha.rao@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Narasimha Rao,Rao,650
+thang.pham@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Thang Pham,Pham,651
+klemens.huynh@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Klemens Huynh,Huynh,652
+gerardo.martin@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Gerardo Burgos Martin,Martin,653
+fady.mikhael@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Fady Nagib Mikhael,Mikhael,654
+cecilia.smith@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Cecilia A Smith,Smith,655
+daniel.hwang@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Daniel Kyung Hwang,Hwang,656
+lauren.tran@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Lauren Yenchau Tran,Tran,657
+katerina-elena.ananiades@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Katerina-Elena Ananiades,Ananiades,658
+houman.solomon@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Houman Solomon,Solomon,659
+brenda.rossshelton@ucr.edu,SOM OB/GYN,School of Medicine,Assistant Professor,Brenda Ross-Shelton,Ross-Shelton,660
+gary.thompson@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Gary J Thompson,Thompson,661
+thomas.davis@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Thomas L Davis Iii,Iii,662
+timothy.mackey@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Timothy Mackey,Mackey,663
+zebayel.baye@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Zebayel A Baye,Baye,664
+rimon.shaker@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Rimon L Shaker,Shaker,665
+ralph.lissaur@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Ralph Lissaur,Lissaur,666
+monica.gordon@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Monica Gordon,Gordon,667
+freddy.alamshaw@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Freddy Alamshaw,Alamshaw,668
+ali.moattari@ucr.edu,Dept. of Family Medicine,School of Medicine,Professor,Ali Moattari,Moattari,669
+ravi.sureddi@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Ravi K. Sureddi,Sureddi,670
+james.bartley@ucr.edu,SOM Medicine,School of Medicine,Associate Professor,James Bartley,Bartley,671
+tokunbo.williams@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Tokunbo Williams,Williams,672
+raja.dhalla@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Raja Dhalla,Dhalla,673
+eric.fox@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Eric Fox,Fox,674
+matthias.barden@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Matthias Barden,Barden,675
+declan.mccole@ucr.edu,Biomedical Sciences,School of Medicine,Professor,Declan Mccole,Mccole,676
+william.hunt@ucr.edu,Biomedical Sciences,School of Medicine,Professor,William P Hunt,Hunt,677
+niraj.gupta@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Niraj P. Gupta,Gupta,678
+elias.haddad@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Elias Haddad,Haddad,679
+lawrence.sharpe@ucr.edu,SOM Pediatrics,School of Medicine,Associate Professor,Lawrence D Sharpe,Sharpe,680
+thomas.haider@ucr.edu,SOM Medicine,School of Medicine,Associate Professor,Thomas T Haider,Haider,681
+kathleen.lima@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Kathleen Lima,Lima,682
+adolfo.aguilera@ucr.edu,Dept. of Family Medicine,School of Medicine,Associate Professor,Adolfo Aguilera,Aguilera,683
+adedapo.williams@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Adedapo Williams,Williams,684
+benjamin.maslin@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Benjamin Saadia Maslin,Maslin,685
+subbu.nagappan@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Subbu Nagappan,Nagappan,686
+hilal.abu-zahra@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Hilal Abu-Zahra,Abu-Zahra,687
+conrad.liang@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Conrad Liang,Liang,688
+steve.sharifi-amina@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Steve Sharifi-Amina,Sharifi-Amina,689
+jinseon.kimpaglingayen@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Jin Seon Kim-Paglingayen,Kim-Paglingayen,690
+john.feller@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,John F Feller,Feller,691
+mo.entezampour@ucr.edu,SOM Internal Medicine,School of Medicine,Lecturer,Mo Entezampour,Entezampour,692
+sarah.jacob@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Sarah S Jacob,Jacob,693
+nathan.carlson@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Nathan D Carlson,Carlson,694
+jerry.dennis@ucr.edu,SOM Neuroscience,School of Medicine,Associate Professor,Jerry L. Dennis,Dennis,695
+kayla.fisher@ucr.edu,SOM Neuroscience,School of Medicine,Professor,Kayla L. Fisher,Fisher,696
+peter.lin@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Peter Lin,Lin,697
+wade.faerber@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Wade Faerber,Faerber,698
+barbara.ackerman@ucr.edu,SOM - Dean's Office,School of Medicine,Assistant Professor,Barbara Ackerman,Ackerman,699
+minqi.hao2@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Minqi Hao,Hao,700
+rachel.sloan@ucr.edu,SOM OB/GYN,School of Medicine,Assistant Professor,Rachel Sloan,Sloan,701
+prabhdeep.sethi@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Prabhdeep S. Sethi,Sethi,702
+rakesh.chopra@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Rakesh Chopra,Chopra,703
+eugene.hu@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Eugene Wen-Chun Hu,Hu,704
+rich.lee@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Richard J. Lee,Lee,705
+qi.chen2@ucr.edu,Biomedical Sciences,School of Medicine,Assistant Professor,Qi Chen,Chen,706
+david.friscia@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,David A Friscia,Friscia,707
+shunling.tsang@ucr.edu,Dept. of Family Medicine,School of Medicine,Associate Professor,Shunling Tsang,Tsang,708
+iqbal.munir@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Iqbal Munir,Munir,709
+vi.dinh@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Vi A Dinh,Dinh,710
+robin.d-clark@ucr.edu,SOM Pediatrics,School of Medicine,Professor,Robin D Clark,Clark,711
+john.husted@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,John Husted,Husted,712
+clayton.barbour@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Clayton Barbour,Barbour,713
+neeta.kumari@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Neeta Kumari,Kumari,714
+cedric.rutland@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Cedric Franklin Rutland,Rutland,715
+hassan.bencheqroun@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Hassan K Bencheqroun,Bencheqroun,716
+hector.ludi@ucr.edu,SOM Surgery,School of Medicine,Associate Professor,Hector D Ludi,Ludi,717
+christine.mikhail@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Christine Wahib Mikhail,Mikhail,718
+rosalee.acevedo@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Rosa Lee Acevedo,Acevedo,719
+zeke.foster@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Zeke Foster,Foster,720
+harvey.nurick@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Harvey Nurick,Nurick,721
+marla.abrolat@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Marla Abrolat,Abrolat,722
+khurram.khan@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Khurram Khan,Khan,723
+sherese.phillips@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Sherese M Phillips,Phillips,724
+russell.mccloud@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Russell Benson Mccloud,Mccloud,725
+djurdjica.coss@ucr.edu,Biomedical Sciences,School of Medicine,Associate Professor,Djurdjica Coss,Coss,726
+huy.au@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Huy D Au,Au,727
+vir.dhalla@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Vir Prabhu Dhalla,Dhalla,728
+david.franklin@ucr.edu,SOM Neuroscience,School of Medicine,Associate Professor,David Franklin,Franklin,729
+miguel.krishnan@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Miguel Krishnan,Krishnan,730
+thet.oo@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Thet N Oo,Oo,731
+khoa.luong@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Khoa Cong Luong,Luong,732
+roy.kim@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Roy Kim,Kim,733
+donald.massee@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Donald Massee,Massee,734
+mir.ali@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Mir Ali,Ali,735
+lauren.donnelly@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Lauren Donnelly,Donnelly,736
+pamela.anderson@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Pamela E Yamanishi,Yamanishi,737
+james.lineback@ucr.edu,SOM Medicine,School of Medicine,Associate Professor,James F Lineback,Lineback,738
+karen.white@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Karen White,White,739
+mark.ashley@ucr.edu,SOM - Dean's Office,School of Medicine,Assistant Professor,Mark A Ashley,Ashley,740
+vaninder.chhabra@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Vaninder Chhabra,Chhabra,741
+tshekedi.dennis@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Tshekedi Dennis,Dennis,742
+ronaldo.gnass@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Ronaldo Gnass,Gnass,743
+andreas.ahlas@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Andreas George Ahlas,Ahlas,744
+priya.batra@ucr.edu,Other,School of Medicine,Adjunct Professor,Priya Batra,Batra,745
+junghwan.choi@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Junghwan Choi,Choi,746
+bruce.underwood@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Bruce Underwood,Underwood,747
+jay.agarwal@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Jay S Agarwal,Agarwal,748
+brett.powers@ucr.edu,SOM Surgery,School of Medicine,Assistant Professor,Brett Powers,Powers,749
+marcos.yang@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Marcos Yuo Cheng Yang,Yang,750
+teri.vieth@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Teri Lynn Vieth,Vieth,751
+michael.coords@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Michael Coords,Coords,752
+ray.glendrange@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Ray R Glendrange,Glendrange,753
+hetal.bhakta@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Hetal R Bhakta,Bhakta,754
+shiv.bhanu@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Shiv Bir Bhanu,Bhanu,755
+jennifer.hui@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Jennifer I Hui,Hui,756
+malinda.baker@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Malinda Baker,Baker,757
+sung.yoo@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Sung J Yoo,Yoo,758
+darlena.monet@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Darlena Mary Monet,Monet,759
+ravi.raghavan@ucr.edu,SOM Internal Medicine,School of Medicine,Professor,Ravi Raghavan,Raghavan,760
+bashar.saad@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Bashar Saad,Saad,761
+daniel.ng@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Daniel K Ng,Ng,762
+david.tito@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,David Douglas Tito,Tito,763
+david.kaufer@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,David Kaufer,Kaufer,764
+arbi.ohanian@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Arbi Ohanian,Ohanian,765
+earl.ilano@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Earl Ilano,Ilano,766
+lakshmi.puvvula@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Lakshmi K Puvvula,Puvvula,767
+ronald.himelman@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Ronald B Himelman,Himelman,768
+janiene.luke@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Janiene D Luke,Luke,769
+suneil.agrawal@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Suneil Agrawal,Agrawal,770
+shawna.langley@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Shawna Langley,Langley,771
+matthew.silver@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Matthew A Silver,Silver,772
+sahar.eivazmohammadi@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Sahar Eivaz Mohammadi,Mohammadi,773
+andrew.ho@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Andrew Tuan Ho,Ho,774
+theresa.moon@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Theresa Moon,Moon,775
+gustavo.alva@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Gustavo Alva,Alva,776
+johnny.liquete@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Johnny Ang Liquete,Liquete,777
+andrew.alexander@ucr.edu,Dept. of Family Medicine,School of Medicine,Associate Professor,Andrew Alexander,Alexander,778
+changcheng.zhou@ucr.edu,Biomedical Sciences,School of Medicine,Professor,Changcheng Zhou,Zhou,779
+roopa.viraraghavan@ucr.edu,Dept. of Family Medicine,School of Medicine,Associate Professor,Roopa Viraraghavan,Viraraghavan,780
+rodolfo.rojas@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Rodolfo Rojas,Rojas,781
+xin.a-zhang@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Xin A Zhang,Zhang,782
+masoumeh.ghaffari@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Masoumeh Ghaffari,Ghaffari,783
+raymond.wang@ucr.edu,SOM Medicine,School of Medicine,Associate Professor,Raymond Y Wang,Wang,784
+kam.lau@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Kam Y Lau,Lau,785
+sunny.nakae@ucr.edu,Other,School of Medicine,Adjunct Professor,Sunny Nakae,Nakae,786
+alexis.hinds@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Alexis Hinds,Hinds,787
+haresh.jhangiani@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Haresh Sunder Jhangiani,Jhangiani,788
+samuel.bolivar@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Samuel Bolivar,Bolivar,789
+marcus.kaul@ucr.edu,Biomedical Sciences,School of Medicine,Professor,Marcus Kaul,Kaul,790
+aijaz.hashmi@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Aijaz Hashmi,Hashmi,791
+tim.leier@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Tim Leier,Leier,792
+william.cherry@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,William B Cherry,Cherry,793
+bahram.mirza@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Bahram Mirza,Mirza,794
+koohzad.karimi@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Koohzad Karimi,Karimi,795
+patrick.hu@ucr.edu,SOM Internal Medicine,School of Medicine,Professor,Patrick P Hu,Hu,796
+huma.quereshi@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Huma T Qureshi,Qureshi,797
+robert.steele@ucr.edu,Dept. of Family Medicine,School of Medicine,Associate Professor,Robert Steele,Steele,798
+candice.ruby@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,Candice Ruby,Ruby,799
+ijeoma.ijeaku@ucr.edu,SOM Neuroscience,School of Medicine,Assistant Professor,Ijeoma Ijeaku,Ijeaku,800
+morteza.chitsazan@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Morteza Chitsazan,Chitsazan,801
+rodney.parker@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Rodney Parker,Parker,802
+ruvdeep.randhawa@ucr.edu,SOM Pediatrics,School of Medicine,Assistant Professor,Ruvdeep Randhawa,Randhawa,803
+robert.yamada@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Robert K Yamada,Yamada,804
+bradley.richie@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Bradley Richie,Richie,805
+rachid.elkoustaf@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Rachid Elkoustaf,Elkoustaf,806
+george.saffouri@ucr.edu,SOM Internal Medicine,School of Medicine,Assistant Professor,George Saffouri,Saffouri,807
+maurizio.pellecchia@ucr.edu,Biomedical Sciences,School of Medicine,Professor,Maurizio Pellecchia,Pellecchia,808
+samuel.wong@ucr.edu,SOM Internal Medicine,School of Medicine,Associate Professor,Samuel Wong,Wong,809
+howard.hlee@ucr.edu,SOM Medicine,School of Medicine,Assistant Professor,Howard Lee,Lee,810
+kenji.morimoto@ucr.edu,Dept. of Family Medicine,School of Medicine,Assistant Professor,Kenji Morimoto,Morimoto,811

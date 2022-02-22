@@ -1,7 +1,7 @@
 
-
 import requests
 import re
+
 
 def getAbbreviations():
     # api parameters
@@ -13,7 +13,8 @@ def getAbbreviations():
     }
 
     # request the api
-    r = requests.get("https://wiktionary.org/w/api.php", params=params, headers={'accept': 'application/json'})
+    r = requests.get("https://wiktionary.org/w/api.php",
+                     params=params, headers={'accept': 'application/json'})
 
     data = r.json()
 
@@ -23,8 +24,10 @@ def getAbbreviations():
 
     return abbr
 
+
 def main():
     abbr = getAbbreviations()
     print(abbr)
+
 
 main()

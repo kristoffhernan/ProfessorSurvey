@@ -5,6 +5,8 @@ config.py
 
 *.ipynb_checkpoints
 
+\venv
+\.vscode
 
 
 *preparation
