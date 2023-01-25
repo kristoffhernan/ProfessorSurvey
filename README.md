@@ -1,9 +1,6 @@
 # ProfessorSurvey
 
-
-[Analysis](./analysis/analysis.md)
-[Web Scraping](./webscraper/webscraper.md)
-[Survey](./website/website.md)
+https://friendly-borg-18530c.netlify.app/index.html
 
 Population
 : All professors and lecturers that have recently taught or arehttps://profiles.ucr.edu/app/home currently teaching
@@ -17,7 +14,7 @@ Sampling Unit
 Observational Unit
 : A single professor or lecturer at UCR
 
-#####A few possible sources of selection bias
+##### A few possible sources of selection bias
 1. Nonresponse: We dont know how many instructors will respond to the survey
 2. Some professors might not teach anymore
 3. Some professors will not open up the email unless it includes the course name they are teaching in the subject header
